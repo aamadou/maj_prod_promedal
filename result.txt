@@ -1,0 +1,5467 @@
+test Access
+Abaisse langue (B/100)
+true
+Gant d'examen taille " L " ( B/100 )
+true
+Gant d'examen taille " M " ( B/100 )
+true
+Gant d'examen taille " S " ( B/100 ) 
+true
+Gant de chirurgie N¯6.5 ( paire )
+true
+Gant de chirurgie N¯7.0 ( paire )
+true
+Gant de chirurgie N¯7.5 ( paire )
+true
+Gant de chirurgie N¯8.0 ( paire )
+false
+Gant de chirurgie N¯8.5 ( paire )
+true
+Lame de bistouri N¯10 ( Bte de 100 )
+true
+Lame de bistouri N¯11 ( Bte de 100 )
+true
+Lame de bistouri N¯15 ( Bte de 100 )
+true
+Lame de bistouri N¯20 ( Bte de 100 )
+true
+Lame de bistouri N¯21 ( Bte de 100 )
+true
+Lame de bistouri N¯22 ( Bte de 100 )
+false
+Lame de bistouri N¯23 ( Bte de 100 )
+false
+Lame de bistouri N¯24 ( Bte de 100 ) 
+false
+Catheter court avec site d'injection G14 (ut)
+true
+Catheter court avec site d'injection G16 (ut)
+false
+Catheter court avec site d'injection G18 (ut)
+false
+Catheter court avec site d'injection G20 (ut)
+true
+Catheter court avec site d'injection G22 (ut)
+true
+Catheter court avec site d'injection G24 (ut)
+false
+Sonde de foley pÇdiatrique CH08 (unitÇ)
+false
+Sonde de foley pÇdiatrique CH10 (unitÇ)
+false
+Sonde de foley adulte homme CH12 ( unitÇ )
+false
+Sonde de foley adulte homme CH14 ( unitÇ )
+false
+Sonde de foley adulte homme CH16 ( unitÇ )
+false
+Sonde de foley adulte homme CH18 ( unitÇ )
+false
+Sonde de foley adulte homme CH20 ( unitÇ )
+true
+Sonde de foley adulte homme CH22 ( unitÇ )
+true
+Sonde de foley adulte femme CH12 ( unitÇ )
+false
+Sonde de foley adulte femme CH14 ( unitÇ )
+false
+Sonde de foley adulte femme CH16 ( unitÇ )
+false
+Sonde de foley adulte femme CH18 ( unitÇ ) 
+false
+Sonde de foley adulte femme CH20 ( unitÇ )
+false
+Sonde de foley adulte femme CH22 ( unitÇ )
+true
+Doigtier deux doigts ( Bte de 100 )
+false
+Seringue 01cc Ö insuline  (unitÇ)
+true
+Sonde d'alimentation CH06 ( unitÇ )
+true
+Sonde d'alimentation CH08 ( unitÇ )
+false
+Sonde d'alimentation CH10 ( unitÇ )
+true
+Sonde d'aspiration CH06 ( unitÇ )
+true
+Sonde d'aspiration CH08 ( unitÇ )
+false
+Sonde d'aspiration CH10 ( unitÇ )
+true
+Aiguille hypodermique G21 (ut)
+true
+Aiguille hypodermique G23 (ut)
+true
+Microperfuseur G19(unitÇ)
+false
+Microperfuseur G20 (unitÇ)
+false
+Microperfuseur G21 (unitÇ)
+false
+Microperfuseur G22 (unitÇ)
+false
+Microperfuseur G23 (unitÇ)
+false
+Microperfuseur G25 (unitÇ)
+false
+Aiguille hypodermique G20 (ut)
+false
+Aiguille hypodermique G25 (ut)
+true
+Seringue 05cc ( unitÇ )
+false
+Seringue 10cc ( unitÇ )
+false
+Seringue 50cc ( unitÇ )
+true
+Sonde gastrique CH12 ( unitÇ )
+true
+Sonde gastrique CH14 ( unitÇ )
+true
+Sonde gastrique CH16 ( unitÇ )
+true
+Sonde gastrique CH18 ( unitÇ )
+true
+Sonde gastrique CH20 ( unitÇ )
+true
+Sonde d'aspiration CH12 ( unitÇ )
+true
+Sonde d'aspiration CH14 ( unitÇ )
+true
+Sonde d'aspiration CH16 ( unitÇ )
+true
+Sonde d'aspiration CH18 ( unitÇ )
+true
+Bavette 3 plis Çlastique ( unitÇ )
+false
+Bavette 3 plis Ö cordon ( unitÇ )
+false
+Poche Ö urine en T ( unitÇ )
+true
+Embout jaune ( Sachet de 1000 ) 
+false
+Embout bleu ( Sachet de 1000 ) 
+true
+Sonde rectale CH12 ( unitÇ )
+true
+Sonde rectale CH14 ( unitÇ )
+true
+Sonde rectale CH16 ( unitÇ )
+true
+Sonde rectale CH18 ( unitÇ )
+true
+Sonde rectale CH20 ( unitÇ )
+true
+Sonde rectale CH22 ( unitÇ )
+true
+Sonde rectale CH24 ( unitÇ )
+true
+Sonde rectale CH26 ( unitÇ )
+true
+Sonde rectale CH28 ( unitÇ )
+true
+Sonde rectale CH30 ( unitÇ )
+false
+Sonde rectale CH32 ( unitÇ )
+true
+Sonde rectale CH34 ( unitÇ )
+true
+Sonde rectale CH36 ( unitÇ ) 
+true
+Sonde endotrachÇale SB/2.5mm ( unitÇ ) 
+false
+Sonde endotrachÇale SB/3.0mm ( unitÇ )
+true
+Sonde endotrachÇale SB/3.5mm ( unitÇ )
+true
+Sonde endotrachÇale SB/4.0mm ( unitÇ )
+true
+Sonde endotrachÇale SB/4.5mm ( unitÇ )
+true
+Sonde endotrachÇale SB/5.0mm ( unitÇ )
+true
+Sonde endotrachÇale AB/5.5mm ( unitÇ )
+true
+Sonde endotrachÇale AB/6.0mm ( unitÇ )
+false
+Sonde endotrachÇale AB/6.5mm ( unitÇ )
+true
+Sonde endotrachÇale AB/7.0mm ( unitÇ )
+true
+Sonde endotrachÇale AB/7.5mm ( unitÇ )
+true
+Sonde endotrachÇale AB/8.0mm ( unitÇ )
+false
+Peni-flow M 25mm ( unitÇ )
+true
+Peni flow L 30mm ( unitÇ )
+true
+Peni flow XL 35mm ( unitÇ )
+false
+Poche Ö urine pÇdiatrique ( unitÇ )
+false
+Robinet 3 voies ( unitÇ )
+false
+Sonde nelaton Homme CH06 ( unitÇ )
+true
+Sonde nelaton Homme CH08 ( unitÇ )
+true
+Sonde nelaton Homme CH10 ( unitÇ )
+true
+Sonde nelaton Homme CH12 ( unitÇ )
+false
+Sonde nelaton Homme CH14 ( unitÇ )
+true
+Sonde nelaton Homme CH16 ( unitÇ )
+true
+Sonde nelaton Femme CH06 ( unitÇ )
+true
+Sonde nelaton Femme CH08 ( unitÇ )
+true
+Sonde nelaton Femme CH10 ( unitÇ )
+true
+Sonde nelaton Femme CH12 ( unitÇ )
+true
+Sonde nelaton Femme CH14 ( unitÇ )
+true
+Sonde nelaton Femme CH16 ( unitÇ )
+false
+Thermometre clinique ( unitÇ )
+true
+Thermometre digital classique ( unitÇ )
+false
+Thermometre digital waterproof ( unitÇ )
+true
+Thermometre digital waterproof flexible ( unitÇ )
+false
+Thermometre digital tÇtine ( unitÇ )
+false
+Thermometre digital frontal ( unitÇ )
+false
+Test de grossesse bandelette ( unitÇ )
+false
+Teste de grossesse cassette ( unitÇ )
+false
+Sonde duodÇnale de LEVIN CH12 ( unitÇ )
+true
+Sonde duodÇnale de LEVIN CH14 ( unitÇ )
+true
+Sonde duodÇnale de LEVIN CH16 ( unitÇ )
+true
+Sonde duodÇnale de LEVIN CH18 ( unitÇ )
+true
+Sonde duodÇnale de LEVIN CH20 ( unitÇ )
+true
+Clamp de BAR ( unitÇ )
+false
+Sparadrap 5x1.5 chaire ( RLX )
+false
+Sparadrap 5x1.5 blanc ( RLX )
+false
+Sparadrap 5x1.25 micropore ( RLX )
+false
+Pansement 1x 6 toile ( RLX )
+false
+Pansement 0.5x 6 toile ( RLX )
+false
+Pansement 1x 6 plastic ( RLX )
+false
+Pansement 0.5x 6 plastic ( RLX )
+false
+Pansement 10ut plastic ( RLX )
+false
+Pansement 20ut plastic ( RLX )
+false
+Quitta Rapide 12ut allumettes
+false
+Sanipore 10mx10cm ( RLX )
+false
+Sanipore 10mx15cm  ( RLX )
+false
+Sanipore 10mx20cm ( RLX )
+false
+Bande platrÇe 10cmx3m ( unitÇ )
+true
+Bande platrÇe 15cmx3m ( unitÇ )
+false
+Bande platrÇe 20cmx3m ( unitÇ )
+true
+Ethibond*VE N¯2/0 75cm DÇc3 B14 S2 22mm 3/8 RONDE ( boite de 36 )
+false
+TREILLIS MERSUTURES*50x30 STE
+false
+Mersutures*N¯1 75cm DÇc4 CP1 S1 36 1/2c TRIAN ( boite de 36
+false
+Prolene*B N¯3/0 75cm DÇc2 Aig B14 22mm 3/8c Ronde ( boite de 36 )
+false
+Pot Ö Crachat noir (unitÇ)
+true
+Tube Ö Hemolyse 5ml  75x13 ( unitÇ )
+false
+Aiguille hypodermique G27 (ut)
+true
+Cire Ö OS
+false
+Ethibond*Excel N¯2/0 90cm DÇc3
+V25 S2 25 3/8c ( boite de 6 )
+false
+Ethibond*VE N¯2/0 90 cm DÇc3
+V25 S2 25 3/8c ( boite de 36 )
+false
+Ethibond*VE N¯3/0 75cm DÇc3 B14 S2 22mm 3/8c Ronde ( boite de 36 )
+false
+Prolene*B N¯75cm DÇc0.5 Aig CC1 13mm 3/8c Ronde ( boite de 36 )
+false
+Prolene*B N¯8/0 45cm DÇc 0.4 Aig CC 6.5mm 3/8c Ronde ( boite de 36 )
+false
+Vicryl*VTT N¯0 90cm DÇc4 Aig CPX 48mm 1/2c TRIAN ( boite de 36 )
+false
+Vicryl*VTT N¯2/0 90cm DÇc4 Aig CP1 S1 36 1/2C TRIAN ( boite de 36 )
+false
+PDS*lllNC. N¯4/0 45cm DÇc1.5 Aig PS1 24 3/8c Ronde ( boite de 24 )
+false
+Acier Mono N¯45cm DÇc7 Aig V40 S1 48 1/2c TAPER (B/ 10)
+false
+Acier Mono N¯6/0 45cm DÇc8 Aig V40 S1 48 1/2c TAPER (B/10)
+false
+Mersutures*N¯2 250cm DÇc5 01 LIGAPACK* ( boite de 20 )
+false
+Tube d'aspiration et irrigation
+false
+Treillis Mersutures*30x30 STE
+false
+Treillis Vicryl*34x26.5cm
+false
+Barquette 6 clips TITANE M/LGE ( boite de 18 barquettes )
+false
+Vicryl VTT*N¯5/0 45cm DÇc1 Aig.S14 S2 8.5mm 1/4c Sabre ( boite de 12 )
+false
+Bracelet d'identification pÇdiatrique rose (ut)
+true
+Bracelet d'identification pÇdiatrique bleu (ut)
+false
+Ruban Nylon 70 60mm ( boite de 36 )
+false
+Vicryl*VTT N¯1 90cm DÇc4 Aig. CP1 S1 36mm 1/2c TRIAN ( boite de 36 )
+false
+Mersutures*N¯0 75cm DÇc3.5 Aig TS S1 48mm Droitrian ( boite de 36 )
+false
+Mersutures*N¯0 75cm DÇc3.5 Aig FSL S1 30mm 3/8c Trian ( boite de 36 )
+false
+Prolene*cure de Hernie T/MOYE ( boite de 01 unitÇ )
+false
+Bouchons pour Tube Ö Hemolyse ( unitÇ )
+true
+Pince Ö prÇhension CLICK LINE ( unitÇ ) 
+false
+Pince Ö dissection et Ö prÇhension CLICK LINE ( unitÇ )
+false
+Prolene*B N¯90cm DÇc2 Aig MH S2 36mm 1/2c Ronde (Bte/36)
+false
+Prolene*B N¯6/0 75cm DÇc 0.7 Aig CC1 13mm 3/8c Ronde (Bte/36)
+false
+Electrode*B 60cm KS+V7 S2 26mm (Bte/24)
+false
+Ethibond*VE 90cm DÇc3 Aig.VC S2 19mm 3/8c TAPER (Bte/36)
+false
+PDS*ll.N¯4/0 45cm DÇc1.5 Aig PS1 24 3/8c Ronde (Bte/24)
+false
+Lame porte objet avec intercalaire 76x26mm (Bte/50)
+false
+Lamelle couvre objet 20x20mm ( Boite de 1000 )
+true
+Ethibond*VE 250cm N¯2 DÇc 5 ligapack* (Bte/20)
+false
+Ethibond*VE N¯2/0 90cm DÇc3 Aig.V7 S2 26 1/2c Taper (Bte/36)
+false
+Prolene*B N¯4/0 75cm DÇc 1.5 AigSH S2 26 1/2c Ronde (Bte/36)
+false
+Prolene*B N¯8/0 60cm DÇc0.4 Aig BV2S2 6.4 3/8c Ronde  (Bte/12) 
+false
+Prolene*B N¯4/0 75cm DÇc1.5 AigB14 S2 22 3/8c Ronde (Bte/36)
+false
+Prolene*B N¯8/0 60cm DÇc0.4 Aig.MV14 6.4 S2 3/8c TAPER (Bte/36)
+false
+Prolene*B N¯5/0 90cm DÇc1 B14 S2 22 3/8c Ronde (Bte/36)
+false
+Agraffeuse Lineaire Coupante Droite de 45mm (Bte/01 ut)
+false
+Chargeur Pour Agraf Lineaire Droite Pour TSG45 (Bte/12 ut)
+false
+Gaine Polyethiläne
+false
+Compresse PurifiÇe 17 fils 12 plis 5x5cm (Bte/100)
+false
+Compresse PurifiÇe 17 fils 12 plis 7.5x7.5cm (Bte/100)
+false
+Compresse PurifiÇe 17 fils 12 plis 10x10cm (Bte/100)
+false
+Compresse PurifiÇe 17 fils 12 plis 5x5cm (Bte/10)
+true
+Compresse PurifiÇe 17 fils 12 plis 7.5x7.5cm (Bte/10)
+true
+Compresse PurifiÇe 17 fils 12 plis 10x10cm (Bte/10)
+true
+Compresse StÇrile  17 fils 12 plis 5x5cm (Bte/10)
+true
+Compresse StÇrile 17 fils 12 plis 7.5x7.5cm (Bte/10)
+true
+Compresse StÇrile 17 fils 12 plis 10x10cm (Bte/10) 
+true
+Compresse StÇrile 17 fils 12 plis 10x10cm (Bte/100)
+true
+Compresse StÇrile 17 fils 12 plis 7.5x7.5cm (Bte/100)
+false
+Compresse StÇrile 17 fils 12 plis 5x5cm (Bte/100)
+true
+Bande de Gaze 4mx10cm (ut)
+true
+Bande de Gaze 8cm x 4m ( unitÇ )
+false
+Bande de Gaze 6cm x 4m ( unitÇ )
+false
+Coton Hydrophile ( 100 G )
+false
+Prolene*B N¯5/0 75cm DÇc1 Aig V4 S2 17mm 3/8c Ronde (Bte/36)
+false
+Prolene*B B¯4/0 75cm DÇc1.5 Aig V4 17mm 3/8c Taper ( Boite de 36 )
+false
+Agraffeuse LinÇaire Coupante 100MM TIS NO ( B/01ut)
+false
+Agraffeuse LinÇaire Coupante 75MM TIS NORM ( B/01ut)
+false
+Chargeur pour TLC75 ( Boite de 12 unitÇs )
+false
+PERFUSEUR COMPLET ( unitÇ )
+false
+Tubes EDTA ( unitÇ )
+false
+Pissette 250ml
+false
+Gaze Hydrophile ( RLX )
+false
+Sparadrap PerforÇ 5x18cm ( RLX )
+false
+Seringue 20cc ( unitÇ )
+true
+Barquette 6 clips TITANE LGE ( Boite de 18 barquettes )
+false
+Kit Tensio-SthÇto ( unitÇ )
+false
+Coton Hydrophile ( 250 G )
+false
+Aiguille Dentaire Jetable ( B/100) 
+false
+Tube HÇparine ( unitÇ )
+false
+Compresse PurifiÇe 17 Fils 12 Plis 5 x 5 ( En Vrac )
+false
+Seringue 2.5cc ( unitÇ ) G25
+true
+Tube Citrate
+false
+Prolene*B N¯3/0 75cm 26mm 1/2c Ronde ( Boite de 36 )
+false
+Ethibond*VE N¯2/0 75cm DÇc3 B16 S2 26 3/8c RONDE ( Boite de 36 )
+false
+Vicryl*VTT N¯2 90cm DÇc5 Aig.CT+S1 40mm 1/2C Ronde ( Boite de 36 ).
+false
+Vicryl*VTT N¯1 75cm DÇc4 Aig.MH+S1 36mm 1/2c Ronde 36mm ( Boite de 36 ).
+false
+Vicryl*VTT N¯0 75cm DÇc3.5 Aig.MH+S1 36mm 1/2c Ronde 36mm ( Boite de 36 ).
+false
+Vicryl*VTT N¯2/0 75cm DÇc3 Aig.SH+S1 26mm 1/2c Ronde ( Boite de 36 )
+false
+Vicryl*VTT N¯2/0 250cm DÇc3Aig.01LIGAPAK* ( Boite de 20 ).
+false
+Vicryl*VTT N¯3/0 250cm DÇc2 Aig.01LIGAPAK* ( Boite de 20 )
+false
+Vicryl*INCR N¯3/0 75cm DÇc2 JB1 S1 22mm 1/2c BLACK ( Boite de 36 ).
+false
+Prolene*B N¯2/0 75cm DÇc3 AigSH S1 26mm 1/2c Ronde ( Boite de 36 ).
+false
+Prolene*B N¯4/0 75cm DÇc1.5 Aig RB1 S1 18mm 1/2c Ronde ( Boite de 36 ).
+false
+Prolene*B N¯6/0 75cm DÇc0.7 Aig PS3 S1 16mm 3/8c PREC ( Boite de 36 ).
+false
+Soie Noire 45cm DÇc0.7 G6 S2 7.6 3/8 C Trian ( Boite de 12 ).
+false
+Soie Noire N¯4/0 75cm DÇc1.5 Aig BB S1 18mm 3/8c Ronde ( Boite de 36 ).
+false
+Surgicel*10x20cm ( Boite de 12 unitÇs ).
+false
+Surgicel*10x20cm ( Boite de 12 unitÇs ).
+false
+Aiguille hypodermique G19 (ut)
+true
+Lamelle couvre objet 24x24mm ( Boite de 1000 )
+true
+Lamelle couvre objet 18x18mm ( Boite de 1000 )
+true
+Prolene*B N¯5/0 75cm DÇc1 Aig V4 17mm 3/8c TAPER ( Boite de 36 )
+false
+Bande de Jersey 10cm ( Rlx/25m )
+false
+Bande de Jersey 15cm ( Rlx/25m )
+false
+Bande de Jersey 07cm ( Rlx/25m )
+false
+Bande de Jersey 05cm ( Rlx/25m )
+false
+Filet Tubulaire N¯4 ( Rlx 25m )
+false
+Filet Tubulaire N¯5 ( Rlx 25m )
+false
+Filet Tubulaire N¯6 ( Rlx 25m )
+false
+Trousse Universelle de Chirurgie Pack ComposÇe: 
+Table Cover 150x180cm 2 plies
+Adhesive Drape 75x90cm 3 plies
+Adhesive Drape 150x200cm 3 plies
+Adhesive Drape 150x240cm 3plies
+Wipes 30x35cm
+OP TAPE 10x50cm
+false
+Callot Forme Cagoule ( unitÇ )
+false
+Casaque XL Standard ( unitÇ )
+false
+Compresse PurifiÇe 10x10 Au Fil de Baryum 12 Plis ( B/100 )
+true
+Couche Adulte Avec AdhÇsif Jetable / Large T3
+false
+Bande de Gaze 4mx5cm (ut)
+true
+Bande de Gaze 4mx7cm (ut)
+true
+Bande de Gaze 4mx15cm (ut)
+true
+Bande de Cràpe 4mx20cm (ut)
+false
+Bande de Cràpe 4mx15cm (ut)
+false
+Bande de Cràpe 4mx10cm (ut)
+false
+Bande de Cràpe 4mx7cm (ut)
+true
+Bande de Cràpe 4mx5cm (ut)
+true
+Vicryl*VTT N¯2 90cm DÇc5 Aig CPX 48mm 1/2cTRIAN ( boite de 36 )
+false
+Vicryl*VTT N¯2 90cm DÇc5 Aig.26mm 1/2c RONDE ( boite de 36 )
+false
+Sonde EndotrachÇale AB/3.0mm ( unitÇ )
+true
+Sonde EndotrachÇale AB/3.5mm ( unitÇ )
+true
+Sonde EndotrachÇale AB/4.0mm ( unitÇ )
+true
+Sonde EndotrachÇale AB/4.5mm ( unitÇ )
+true
+Sonde EndotrachÇale AB/5.0mm ( unitÇ )
+true
+Lame de bistouri N¯12 ( Bte de 100 )
+true
+Lame de bistouri N¯18 ( Bte de 100 )
+false
+Lamelle couvre objet 22x22mm ( Boite de 1000 )
+true
+Ethilon N¯2/0 90cm DÇc3 Aig CP1 36mm 1/2c TRIAN ( b/36)
+false
+TREILLIS MERSUTURES*15X30 STE
+false
+TREILLIS VICRYL *26.5x2.5C
+false
+Mersutures*N¯250cm DÇc4 Aig 01 LIGAPACK* ( boite de 36 )
+false
+Mersutures*N¯75cm DÇc4 Aig TS 50mm DROITRIAN ( boite de 36 )
+false
+Plaque d'os large 6 trous gliss L103mm
+false
+Plaque d'os large 8 trous gliss L 135mm
+false
+Plaque d'os large 10 trous gliss L 167mm
+
+true
+Plaque d'os large 12 trous gliss L 199mm
+
+true
+Plaque d'os large 14 trous gliss L231mm
+
+true
+Plaque d'os large 16 trous gliss L 263mm
+true
+Plaque d'os large 18 trous gliss L 295mm
+true
+Vis spongiosa 6.5x60mm filet 16mm
+
+false
+Vis spongiosa 6.5x65mm filet 16mm
+false
+Vis spongiosa 6.5x70mm filet 16mm
+false
+Vis spongiosa 6.5x75mm filet 16mm (5/PC)
+true
+Vis spongiosa 6.5x80mm filet 16mm (5/PC)
+
+true
+Vis spongiosa 6.5x85mm filet 16mm (5/PC)
+
+true
+Vis spongiosa 6.5x90mm filet 16mm (5/PC)
+true
+Vis spongiosa 6.5x95mm filet 16mm (5/PC)
+
+true
+Vis spongiosa 6.5x100mm filet 16mm (5/PC)
+true
+Vis spongiosa 6.5x110mm filet 16mm (5/PC)
+
+true
+Khirschner filforage 0.8 x 310 mm troc./ pl
+false
+Khirschner filforage 1.0 x 310 mm troc pl
+
+false
+Khirschner filforage 1.2 x 310 mm troc pl
+
+false
+Khirschner filforage 1.5 x 310 mm troc pl
+
+false
+Khirschner filforage 1.8 x 310 mm troc pl
+
+false
+Khirschner filforage 2.0 x 310 mm troc pl
+
+false
+Blount pince d'os petite
+
+false
+Blount pince d'os grande
+
+false
+Fil de cerclage mou d 1.0mm anneau 0 10m
+
+false
+Mesureure de vis 1.225mm 5/6.5mm
+
+false
+Vis corticale 4.5x28mm filet complet (5/PC)
+
+true
+Vis corticale 4.5x30mm filet complet
+
+true
+Vis corticale 4.5x32mm filet complet
+
+true
+Vis corticale 4.5x34mm filet complet
+
+true
+Vis corticale 4.5x36mm filet complet
+
+true
+Vis corticale 4.5x38mm filet complet
+
+true
+Vis corticale 4.5x40mm filet complet (5/PC)
+
+true
+Vis  Corticale 4.5x42mm Filet Complet (5/PC)
+true
+Vis corticale 4.5x44mm filet complet (5/PC)
+
+true
+Vis corticale 4.5x46mm filet complet (5/PC)
+true
+Vis corticale 4.5x48mm filet complet
+false
+Vis corticale 4.5x50mm filet complet (5/PC)
+
+true
+Vis corticale  3.5 x 12mm
+
+false
+Vis corticale  3.5 x 14mm (5/PC)
+
+true
+Vis corticale  3.5 x 16mm
+
+false
+Vis corticale  3.5 x 18mm (5/PC)
+
+true
+Vis corticale  3.5 x 20mm (5/PC)
+
+true
+Vis corticale  3.5 x 24mm
+
+
+false
+Vis corticale  3.5 x 28mm
+
+false
+Vis corticale  3.5 x 40mm
+
+false
+Plaque d'os etroite 6 trous gliss L103mm
+true
+Plaque d'os etroite 8 trous gliss L135mm
+true
+Plaque d'os etroite 10 trous gliss L167mm
+true
+Plaque d'os etroite 12 trous gliss L199mm
+
+false
+Plaque d'os etroite 14 trous gliss L231mm
+false
+Plaque condylaire 90¯/5 trous lame 60mm
+false
+Plaque condylaire 95¯/5 trous lame 70mm
+false
+Plaque condylaire 95¯/7 trous lame 70mm
+false
+Plaque condylaire 95¯/5 trous lame 80mm
+false
+Pince plate p. broches mors gaufres
+false
+Rugine cobbs largeur 19mm 280mm
+
+false
+Plaque semitubul 5 trous L 12mm l87mm
+
+false
+Plaque semitubul 6 trous l 12mm l103mm
+
+false
+Plaque semitubul 7 trous l 12mm L119mm
+false
+Plaque semitubul 8 trous l 12mm l135mm
+false
+Vis spongiosa  3.5 x 28mm filet large
+false
+Vis spongiosa  3.5 x 32mm filet large
+false
+Vis spongiosa  3.5 x 36mm filet large
+false
+Vis malboaire 4.5 x 40mm filet part
+
+false
+Levier Ö os 17mm pointe courte etroite
+false
+Ecart D.adson baby Ö articulation 140mm
+false
+Support de poche de colostomie 15-35 (40mm)
+true
+Almarys Twin support de poche urostomie 50mm
+true
+Almarys Twin support de poche urostomie 60mm
+false
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 40mm
+true
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 50mm
+ 
+true
+Poche de colostomie D 60
+false
+Boite pour Greffe Renale Donneur
+false
+Ciseaux Potts-Demartel  Coudes 25-185mm
+false
+Ciseaux Potts-Demartel Coudes 45-185mm
+false
+Ciseaux Potts-Demartel Cod 60-185mm
+false
+Pince A Coagulation isolee 200mm DRT
+false
+Pince a Coagulation isolee 200mm MORS Coudes.
+false
+Durogrip porte-aigu.crile-wood 145mm
+false
+Durogrip porte-aiguille debakey 180mm
+false
+Micro-ciseaux ress manche rond CRB.145mm
+false
+Pince bulldog ATR debakey DR25/80mm
+false
+Pince bulldog ATR debakey CRB23/78mm
+false
+Micro-pince bulldog ATR 60mm DRT
+false
+Pince ciseaux comme FD2CRB.S 185mm
+false
+Micro-pince bulldog ATR.55 mm coudee
+false
+Pince p . pose D.clamps bulldog 240mm
+false
+Pince ATR debakey-satinsky 245mm
+false
+Pince ATR.D. debakey 255mm
+false
+Pince P.vaiss.periph.debakey cdee 180mm
+false
+Pince a neurisme ATR .debakey 255mm
+false
+Pince a dissect .et LIG .D. debakey 190mm
+false
+Venenhaken nach cushing 10 x10mm 230mm
+false
+Ecarteur cushing 10 x 13mm
+false
+Ecarteur cushing 14 x 18mm
+false
+Ciseaux dissection bipolaire 180mm
+false
+Valve rochard 105mm
+false
+Dispositif fixation rochar
+false
+Pince ATR.DRT.200mm 2.8mm
+false
+Pince ATR.DRT.240mm 2.8mm
+false
+Pince ATR DRT .300mm 2.8mm
+false
+Pince non -traumatique 2mm large 150mm
+false
+Pince non-traumatique 2mm large 200mm
+false
+Pince non-traumatique 2.0mm large 240mm
+false
+Ecarteur costalfinochietto P.ADOLSC.
+false
+Ecarteur a cotes baby - finochietto (piäce)
+false
+Ecarteur costal fino-chietto P .ADULT
+false
+Spatul ABD.et intest .flexible 25 x 250mm
+false
+Valve heriche largeur 45mm long 255mm
+false
+Durotip ciseaux metzenbaum CRB.145mm
+false
+Durotip ciseaux LIG .metzenbaumCRB.180mm
+false
+Durotip ciseaux diss.metzb .CRB.230mm
+false
+Ciseaux mayo-stille CRB.140mm
+false
+Ciseaux stille CRB .150mm
+false
+Ciseaux mayo-stille CRB.170mm
+false
+Ciseaux mayo-DRT.140mm (piäce)
+false
+Ciseaux mayo-harrington DRT.230mm
+false
+Pince pulmonaire duval 230mm
+false
+Pince hemost.halsted-mosquito DRT.200mm
+false
+Pince bengolea DRT.245mm
+false
+Pince hemost .mosquito DRT .mod baby 100mm
+false
+Pince hemostat .leriche DRT.150mm
+false
+Pince hemost.O'shaugnessy 180mm
+false
+Pince a champ backhaus 90mm
+false
+Durogrip porte-aiguille debakey 150mm
+false
+Durogrip porte-aiguille debakey 250mm
+false
+Durogrip porte-aigu.hegar-mayo 150mm
+false
+Durogrip porte-aigu.hegar-mayo 185mm
+false
+Durogrip porte-aigu.hegar-mayo 205mm
+false
+Pince ATR.de'bakey-satinsky 240mm
+false
+Pince ATR. de'bakey-satinsky 235mm
+false
+Manche bistouri N 0.3 124mm (piäce)
+false
+Manche bistouri N 0.3 L211mm
+false
+Manche bistouri N 0.4 133mm (piäce)
+false
+Manche bistouri N0.4 L 213mm
+false
+Ecarteur farabeuf grand jeu 2 (set)
+false
+Ecarteur cushing valve 11x14mm 250mm (piäces)
+false
+Ecarteur vesical milin
+true
+Ecarteur costal finochietto P.ADOL SC.
+false
+Durotip ciseaux LIG.metzenbaum CRB.180mm
+false
+Pince hemost. o'shaugnessy 180mm
+false
+Ciseaux a dissection metzembaum 145mm
+false
+Ciseaux a dissection metzembaum 180mm
+false
+Ciseaux a dissection mayo 170mm
+false
+Ciseaux mayo CRB. sur le plat 170mm (piäce)
+false
+Ciseaux a dissection stille 150mm
+false
+Ciseaux adissection mayo 165mm
+false
+Ciseaux a dissection mayo courbe 165mm
+false
+Ciseaux a dissection metzembaum 200mm durotip
+false
+Ciseaux a dissection nelson metzembaum 250mm
+false
+Ciseaux a lloyd davies goligher's 270mm
+false
+Porte aiguilles finochietto long 265mm
+false
+Porte aiguilles halsey long 130mm
+false
+Porte aiguilles grille wood long 150mm model fin
+false
+Porte aiguilles adson long 175mm
+false
+Porte aiguilles mayo hegar long 150mm
+false
+Porte aiguilles mayo hegar long 180mm semi fin
+false
+Porte aiguilles mayo hegar long 150mm model robuste
+false
+Porte aiguilles mayo hegar long 175mm model robuste
+false
+Porte aiguilles mayo hegar long 205mm model robuste avec ciseaux 
+false
+Pince hemostatique de bakey bainbridge 180mm non traumatisante
+false
+Pince  de bakey rumel long 250mm  
+false
+Pince de bakey long 265mm courbe a 48¯
+false
+Pince a griffes en acier 32G
+false
+Pince a prehension (H21)
+false
+Crochet G K 471
+false
+Pince P L 149
+false
+Pince P L 143
+false
+Pince en coeur P L 134
+false
+Pince clamp S 32
+false
+Pince 32 S
+false
+Pince p l 120
+false
+Pince croco P L 107
+false
+Pince cholangiographie PL 100R
+false
+Pince a moyenne PL 108R
+false
+Pince a biopsie PL 300R
+false
+Ciseaux mousse crochet PL 005R
+false
+Ciseaux droit PL6
+false
+Ciseaux dissequer PL3
+false
+Ciseaux courbe PL16
+false
+Pince pose clip PL506R
+false
+Porte aiguille PL 400
+false
+Porte aiguille PL116
+false
+Tige aspiration irrigation GF321
+false
+Palpatem
+false
+POUCE PL651
+false
+Aiguille PG3 de ponction
+false
+Micro-line dermatome wagner
+false
+Elan-EC Moteur rotat.D/G.unite d'irrig
+false
+Lames P.dermatome wagner sterile
+false
+Micro arbre flexible 1.8M
+false
+Micro-line wagner dermatome hanspiece
+false
+Motor elan-ec W.for ward/reverse gear
+false
+CABLE NORMES EUROPEENNES
+false
+Commande a pied AV.PEDALE & deux boutons
+false
+Moteur elan- ec for large bone surgery
+false
+Macro cable for large bone surgery
+false
+Macro arbre flexible 1.6 M
+false
+Reciproc.sternum saw hand piece .macro
+false
+Macro-Line scie stern.AV.GB094R/GB135R
+false
+Lame scie stern.alternat .35/8//0.6/1.1mm
+false
+Epingle a sterilisation 140mm
+false
+Manche bistouri P.micro lames 145MM
+false
+Pincette a dissequer 145mm (piäce)
+false
+Pincette a dissequer 180mm (piäce)
+false
+Pincette a dissequer 200mm (piäce)
+false
+Pincette a dissequer 1x2G. 160mm (piäce)
+false
+Pincette adissequer 1x2G. 180mm (piäce)
+false
+Pincette a dissequer 1x2G. 200MM (piäce)
+false
+Durogrip pincette cushing 180mm
+false
+Set Universel 2 plies stÇrile emballÇ en boite interne de 5 piäces carton de 30 piäces
+false
+Blouse de chirurgie stÇrile avec 2 serviette et champ enveloppant taille L boite de 12 pcs carton de 72 pcs
+false
+Blouse de chirurgie stÇrile avec 2 serviettes et champ enveloppant taille XL boite de 12 pcs carton de 72 pcs
+false
+Set de hanche stÇrile 2 plies emballÇ en boite interne de 3 pcs carton de 18 pcs
+false
+Champ opÇratoire 150x240cm 2 plies emballage individuel stÇrile boite interne de 8 pcs carton de 48 pcs 
+false
+Champ opÇratoire 150x180cm 2 plies emballage individuel stÇrile boite interne de 12 pcs carton de 72 pcs
+false
+Champ opÇratoire 100x150cm 2 plies emballage individuel stÇrile boite interne de 25 pcs carton de 150 pcs
+false
+Champ opÇratoire 50x50cm 2 plies emballage individuel stÇrile boite interne de 75 pcs carton de 750 pcs
+false
+Bonnet bleu de chirurgien non tissÇ 30 grs avec Çlastique
+false
+Bonnet vert en boite de 200 pcs et boites en carton de 7200 pcs
+false
+Compresse de gaze 10x10cm 12 plies 17 fils/cm˝ non stÇrile en sachets de 100 pcs carton de 1000 pcs
+false
+Champ opÇratoire 76x90cm 2 plies emballage individuel stÇrile boite de 30 pcs carton de 300 pcs
+false
+Bonnet bleu boite de 200 pcs boite en carton de 7200 pcs
+false
+Safil violet  0 (3.5) 70cm HR13SS (M) DDP
+false
+Safil violet 0 (3.5¯70cm HR22 (M) DDP
+false
+Safil violet 0 resorbable  1/2 cercle 70cm HR26 (Bt/36)
+false
+Safil violet 0 resorbable 70cm1/2 cercle HR30 (Bt/36)
+
+false
+Safil violet  0 resorbable 70cm 1/2 cercle HR37 (Bt/36)
+false
+Safil violet 0 (3.5) 90cm HR40 (M) DDP
+false
+Safil violet 0 (3.5) 70cm HS23 (M)DDP
+false
+Safil violet 1 (4) 70cm HR26 (M)DDP
+false
+Safil violet 1 resorbable 70cm 1/2 cercle HR26 (Bt/36)
+false
+Safil violet 1 resorbable 70cm 1/2 cercle  HR30 (Bt/36)
+false
+Safil violet 1(4) 70cm HR30S (M)DDP
+false
+Safil violet 1 rÇsorbable 70cm1/2 cercle HR37(Bt/36)
+
+
+
+
+true
+Safil violet 1 (4) 70cm HR37S (M)DDP
+false
+Safil violet Resorbable synthetique 1 70cm HR40 (Bt/36)
+false
+Safil violet 1 (4)70cm HS18 (M) DDP
+false
+Safil violet  resorbable synthetique 1 90cm 1/2 cercle HS37  Bt/36
+false
+Safil violet 1 (4) 90cm HS40 (M) DPP
+false
+Safil violet 2 (5) 70cm HR26 (M) DPP
+false
+Safil violet 2 (5) 70cm HR26S (M)DDP
+false
+Safil violet 2 rÇsorbable  70cm 1/2 cercle  HR30 (Bt/ 36)
+false
+Safil violet usp 2 resorbable  70cm HR40S (Bt/36) 
+false
+Safil violet 2 (5)70cm HS23 (M)DDP
+false
+Safil violet 2 (5)70cm HS26SS (M) DDP
+false
+Safil violet 2 (5) 90cm HS40 (M) DDP
+false
+Safil violet 2/0 (3)70cmHR20 (M) DDP
+false
+Safil violet 2/0 resorbable 70cm 1/2 cercle HR26 (Bt/36)
+false
+Safil violet usp 2/0 resorbable  70cm 1/2 cercle HR30 (Bt/36) 
+
+false
+Safil violet 2/0 rÇsorbable 70cm 1/2cercle HR37(Bt/36)
+false
+Blount Supp.De Pince et Instr.D'Impact
+false
+Pilon (Impacteur) P.Blount Pinces D'os
+false
+Instr.D'Extraction P.Blount Pinces D'os
+false
+Calque De Taille P/Tetes Hanche 39-47MM
+false
+Calque De Taille P/Tetes Hanche 49-57MM
+false
+MFR Fil De Guide D2.5MM L800MM
+false
+MFR Tige De Foret Nitinol 470MM AO-GR
+false
+MFR Tete De Foret D9.0MM P.Tige GE666R
+false
+MFR Tete De Foret D10.0MM P.Tige GE666R
+false
+MFR Tete De Foret D11.0MM P.Tige GE666R
+false
+MFR Tete De Foret D12.0MM P.Tige GE666R
+false
+Tournevis SW2.5 L200MM
+false
+Tournevis SW3.5 L200MM AV.Ressort Main
+false
+Macro Arbre Flexible 2.1M
+false
+Macro-Line Foreuse Forme Pist.Rotat.D/G
+false
+Mandrin A 3 Mach.>D6.5MM INCL.GA031201
+false
+Macro-Line P.A M.Scie Sagittale S.Lames
+false
+Lame De Scie Rac.Etoile 50/15/0.5/0.8MM
+false
+Lame De Scie Rac.Etoile 50/25/0.7/0.9MM
+false
+Lame De Scie Rac.Etoile 50/30/.07/0.9MM
+false
+Lame De Scie Rac.Etoile 65/25/0.7/0.9MM
+false
+Lame De Scie Rac.Etoile 65/30/.07/0.9MM
+false
+Lame De Scie Rac.Etoile 65/40/0.7/0.9MM
+false
+Mandrin De Brochage
+false
+Porte Alesoir Intramedullaire
+false
+Raccord AO Grand
+false
+Cuve Pour 1/1 Container Hauteur:135MM
+false
+Primeline 1/1 Couvercle Bleu
+false
+Panier Standard 1/1 Hauteur:106MM
+false
+Bone Wax Steriel (Cire a os) Bt/24
+false
+Gellita-Tampon 1x1x1cm 045 (Boite/50)
+false
+Gelita-Tampon 1x1x1cm 045(Boite/10)
+false
+CERVIX SET DIAMETER 0.5cm  50cm 1/2 cercle  (2XHRN45) Bt/ 6
+true
+Cervix Set(filde cerclage) 50cm 2xHRN65 (Bt/12)
+true
+ST301 Celsite Titanport intravenous (Boite/1)
+false
+ST301F Celsite Titanport intravenous (Boite/1)
+false
+Dafilon black 10/0 0.2) 30m 2xDLM6 150m BLT (Boite/12)
+false
+Dafilon blue 4/0 (1.5) 75cm DS19DDP (Boite/36)
+false
+Dafilon blue 2/0 (3) 75cmDS24 DDP (Boite/36)
+false
+Dafilon blue 3/0 (2) 75cm DS30 DDP (Boite/36)
+false
+Dafilon blue 1 (4) 75cm DS30 DDP (Boite/36)
+false
+Dafilon blue 0(3.5) 75cm DS24 DDP (Boite/36)
+false
+Dafilon blue 3/0 (2) 90cm HS26 DDP (Boite/36)
+false
+Dafilon blue 2/0 (3) 75cm HS26 DDP (Boite/36)
+false
+Dafilon blue 4/0 (1.5) 90cm HS21 DDP (Boite/36)
+false
+Dafilon blue 0 (3.5)905cm HS26 DDP (Boite/36)
+false
+Dafilon blue 1 (4) 75cm HS30 DDP (Boite/36)
+false
+Dafilon blue 1 (4) 10cm HR26SS DDP (Boite/36)
+false
+Dafilon blue 1 (4) 90cm DS35 DDP (Boite/36)
+false
+Dafilon blue 1 (4) 90cm GS51 DDP (Boite/36)
+false
+Dafilon blue 0 (3.5) 75cm GS51 DDP (Boite/36)
+false
+Dafilon blue 3/0 (2) 90cm DS35 DDP (Boite/36)
+false
+Dafilon blue 0 (3.5) 90cm DS35 DDP (Boite/36)
+false
+Dagrofil green 1 (4) 75cm HR37 DDP (Boite/36)
+false
+Dagrofil green 1 (4) 75cm HR30 DDP (Boite/36)
+false
+Dagrofil green 0  75cm1/2 de cercle  HR26(Bt/36) 
+false
+Dagrofil green 0 (3.5) 75cm HR30 DDP (Boite/36)
+false
+Dagrofil green 1 (4) 75cm HR26 DDP (Boite/36)
+false
+Dagrofil green 2/0 (3) 75cm HR26 DDP(Boite/36)
+false
+Dagrofil green 2/0 (3) 75cm HR30 DDP (Boite/36)
+false
+Dagrofil green 1 (4) 75cm HS30 DDP (Boite/36)
+false
+Daggrofil green 1 (4) 75cm HS37 DDP (Boite/36)
+false
+Dagrofil green 2/0 (3) 75cm HR17 DDP
+false
+Dagrofil Green 3/0 non-resorbable 75cm 1/2 cercleHR26 Bt/36
+false
+Dagrofil green 4/0 (1.5) 75cm HR22 DDP (Boite/36)
+false
+Dagrofil green 3/0 (2) 75cm HR22 DDP (Boite/36)
+false
+Dagrofil green 3/0 (2) 75cm HR17 DDP (Boite/36)
+false
+Dagrofil green  non-absorbable usp 0 (metric 3, 5) 
+ usp 3/0 (metric 2)  75cm ; 1/2 cercle 
+
+false
+Dagrofil green 1 (4) 250cm ARO DDP (Boite/12)
+false
+Epist S.Q.U 2/0 70DS 24.0 90HRT43 (M)DDP (Boite/36)
+true
+Epist S.Q.U.2/0 70DS24.2X0 90 HRT43 (M)DDP (Boite/24)
+false
+Endo-sponge (RÇparation anastomose) (Boite/10)
+false
+Endo-sponge (Boite/10)
+false
+Histoacryl blue 0.5 ml (Bt/10)
+true
+HISTOACRYL - TISSUE ADHESIVE, 0.2ML (Bt 5)
+false
+Lyostypt 10x12cm Gaze hemostatique (Bt/4)
+false
+Lyostypt 5x8cm 046 (Boite/12)
+false
+Lyostypt 20x30cm (Boite/2)
+false
+Linatrix 0 (3.5) 75cm HR37 DDP (Boite/36)
+false
+Linatrix 1 (4) 75cm HR37 DDP (Boite/36)
+false
+Linatrix 3/0 (2) 75cm HR30 DDP (Boite/36)
+false
+Monoplus (5/0) double aiguille (1/2 cerclze HR 10)
+false
+PrÇminilene (2/0) aiguille (1/2 cercle HR 37)
+false
+PrÇminilene (6/0) double aiguille (1/2 cercle 2 HR 10)
+false
+Safil Quick (0) aiguille (1/2 cercle 26mm)
+false
+Safil Quick (3/0) aiguille (1/2 cercle 22mm)
+false
+Safil Quick (4/0) aiguille (1/2 cercle 22mm)
+false
+Safil violet 6/0 resorbable 45cm 2XVLM8 (Bt/12)
+false
+Safil violet 7/0 45cm 3/8  cercle 2xDLM06S (Bt/12)
+false
+Dafilon black10/0  30cm 3/8 cercle 2XDLm6S (Bt/12)
+false
+Synthofil white 5/0 1/4cercle 30cm (BT/12)
+false
+Safil violet 5/0 resorbable 1/2cercle 70cm HR26 (Bt/36)
+false
+Dafilon Blue2/0 (3) 75CM DS39 DDP
+false
+Dafilon blue 3/0 non-resorbable 75cm 3/8 cercle (DS30) Bt/36 
+true
+Safil violet usp 2/0 resorbable  250cm (no needle) Bt/12 
+false
+Safil violet 2 resorbable 70cm HR37 (Bt/36)
+true
+Safil violet 4/0 rÇsorbable 70cm1/2 cercle HR26 (Bt/36)
+false
+Safil violet 5/0 resorbable 70cm 1/2cercle HR17 (Bt/36)
+
+
+
+false
+Safil Qui undy 0 (3,5) 70CMHS26 (M)DDP
+false
+Safil violet  3/0 resorbable 70cm 3/8 cercle (DR18) Bt/36 
+false
+Premilene 2/0 (3) 75CM HR26 (M)DDP
+false
+Premilene 4/0 (1.5) 75CM HR17 CV DDP
+false
+Premilene usp 5/0 non-resosorbable 75cm 1/2 cercle  HR17 Bt/ 36
+false
+Premilene 6/0polypropylene 1/2cercle90cm (2XHR17) Bt/36
+false
+Premilene 7/0 (0.5) 75CM 2XHR13 CV DDP
+false
+Monoplus Violet 4/0 Polydioxanone monofilament  rÇsorbable 70cm (Bt/36) 
+
+false
+Monoplus Violet 4/0polydioxanon 1/2cercle 70cm HR17 (Bt/36) 
+false
+Monoplus Violet 6/0 (0.7)70CM 2XHR13 (M) DDP
+false
+Monoplus Violet 5/0 (1) 70CM HR17 (M) DDP
+false
+Dissecteur 90¯ 280mm
+false
+Dissecteur fin presser nerveuse 90¯ 280mm
+false
+Retracteur prostatique ecart 11mm 360mm
+false
+Retracteur uretral 390mm
+false
+Clamp de santorini 10¯ 210mm
+false
+Ciseaux fins droit 280mm
+false
+Manche bistouri 3xL/ 12¯ 250mm
+false
+Manche bistouri 3xL /25¯ 250mm
+false
+Manche bistouri droit 3xL 250mm
+false
+Cadre porte fils
+false
+Pince ATR DRT 150mm 2.8mm
+false
+Pince ATR COUDEE 150mm mors 2mm
+false
+Pince ATR COUDEE 200mm mors 2mm
+false
+Pince non traumatique de bakey200mm DRT
+false
+Pince non traumatique de bakey 240mm DRT
+false
+Pince ATR DRT 300mm 3.5mm
+false
+Durogrip porte aiguille hasley 120mm
+false
+Durogrip porte aiguille converse 130mm
+false
+Durogrip porte aiguille masing ANN.COD.E.BAS
+false
+Durogrip porte aiguille hasley 130mm
+false
+Durogrip porte aiguille webster lisses 125mm
+false
+Durogrip porte aiguille baby crile wood 150mm
+false
+Ureas Tape Implant Loop Connector shipping (Bt/1)
+true
+Ureas top 2needles transobturator procedure pair
+true
+Ureas top needle transobturator procedure
+true
+Ureas needle abdominal procedure
+true
+Ureas Vneedle retrobubic procedure pair
+true
+Ureas handle for V needles
+true
+Safil violet3/0 resorbable 70cm 1/2 cercle30mm HR30(Bt/36)
+
+false
+Safil violet 3/0 resorbable  70cm 1/2 cercle HR37  (Bt/36) 
+false
+POLYESTER NON RESORBABLE
+false
+STEELEX STE SET 6 4X45CM HRS48 LPCE (Bt/12)
+true
+PrÇmilene 4/0 non-rÇsorbable 1/2cercle 75cm (2xHR26) BT/36
+false
+PrÇmilene 3/0 75cm 2xHR26
+false
+PINCE ATR.COOLEY 260MM
+false
+KIDNEY SET
+false
+COMPRESSE PURIFIEE
+false
+Tarlatane (Gaze Hydrophile) RLX (100m x 60cm)
+false
+Pince a polypes maier a.crema.CRB.265mm
+false
+Pince a champ backhaus 110mm
+false
+Pince achamp longueur 115mm
+false
+Durotip ciseaux metzenbaum CRB.180mm
+false
+ciseaux nelson-metzenbaum 260mm
+false
+Durotip ciseaux coupe-fil longueur 180mm
+false
+Durotip ciseaux coupe-fil longueur 230mm
+false
+Durotip ciseaux a diss. lexer CRB.165mm
+false
+Ciseaux vasc.potts-smith 55¯ COD.180MM
+false
+Durotip ciseaux cod.en bas 60¯ 220mm
+false
+Ciseaux CHIR.DRT.MS/AG 145mm
+false
+Pincette a disseq.larg.moyen 1x2G.145mm
+false
+Pincettea disseq.LARG.Moyen 1x2G.200mm
+false
+Pincette a disseq.LARG.Moyen 1x2G 250mm
+false
+Pince non-traumatique 2.0mm large 240mm
+false
+Pince anatomique isolee 200mm
+false
+Pince dissection isolee 200mm
+false
+Pince hemostat.kocher DRT.140mm
+false
+Pince hemostatique halsted CRB.125mm (piäce)
+false
+RÇsorbable synthÇtique 3/0 1/2cercle ronde 36mm
+false
+Polyestäre non rÇsorbable 3/0 1/2 cercle ronde 30mm
+false
+Premilene 6/0 (0.7) 75 cm
+false
+Premilene 6/0 (0.7) 75 cm
+false
+Safil Quick+incol3/0
+false
+Safil violet 8/0 30cm 3/8 de cercle 2xDLM06S (Bt/12)
+false
+Safil violet 5/0 resorbable 45cm1/4 cercle (2XVLM08) (Bt/12)
+true
+Synthofil blanc 6/0 (2XVLM8) 45cm Bt/12 
+false
+Premilene 5/0 non-rÇsorbable 75cm 3/8 de cercle ( 2xDR18) BT/36
+false
+Silkam black   7/0 45cm 3/8 cercle 2XDSMP07 (Bt/36)
+
+false
+Premilene blue 4/0 non-resorbable 45cm 3/8 cercle DS12 (Bt/36)
+
+true
+ Premicron Green usp2/0 non-rÇorbable 90cm 3/8cercle, (2XDR26)  Bt/36 
+false
+PREMICRON GREEN 2/0 (3) 75cm 2xDR22(m) DDP
+false
+STEELEX ELECTRODE 3/0 60cm HR17 (Bt/36) 
+true
+Silkam black 6/0 non-resorbable 45cm 3/8 cercle 7mm (Bt/36) 
+false
+Premilene mesh - hernia repair, 30x30cm (Bt/ 5)
+true
+Safil mesh 28X18CM (Bt/1)
+false
+Premilene mesh-hernia repair, 15*15cm (Bt/5)
+false
+Premicron greent 2/0 (3)902XHRT26
+false
+collecteur d'urine pour enfant stÇrile 100ml
+false
+safil violet 2 (5) 90cm HR40S
+false
+Safil violet 6/0 resorbable 1/2 cercle 70cm HR13 (Bt/36) 
+false
+Safil violet 3/0 rebsorbable 250cm (Boite/12)
+
+false
+DAFILON BLEU 4/0 (1.5)90cm
+false
+DAFILON BLEU 3/0 75cm DS30
+false
+Safil violet usp 0 resorbable 1/2cercle 70cm HR48 Bt/36
+false
+Safil violet usp1 resorbable  70 cm HR48 BT/36
+false
+SAFIL VIOLET 2(5) 90 cm HR65(M)
+false
+SET
+false
+Microspeed Arthro Shaver Unit
+false
+Position ACL Reconstruction basic
+false
+Plaque Semitubul.9 trous L12MM L151MM
+false
+Plaque TUB.TIERS 6 Trous L9.5MM
+false
+Plaque Tub Tiers 7 Trous L9.5MM L85MM
+false
+Plaq.D'OS  EtrOITE 7 Trous Gliss.L119mm
+false
+Plaq.D'OS Etroite 9 Trous Gliss L151MM
+false
+Plaque EN T 4 Trous (TIGE) L84mm
+false
+Plaq en L 4 Trous (TIGE) L84mm Droite
+false
+Plaque en L4 Trous (TIGE) L84 guauche
+false
+Vis corticale 4.5x22mm Filet complet
+false
+Vis corticale 4.5x24mm Filet complet (5/PC)
+true
+Vis corticale 4.5x26mm filet complet (5/PC)
+true
+Vis corticale 4.5x30mm filet complet
+false
+Safil Violet 4/0 70cm HR30
+false
+SAFIL VIOLET 4/0 90cm HS35S
+false
+Vis Corticale 4.5x60mm filet complet
+false
+Vis Corticale 3.5 x22mm (5/PC)
+true
+Vis Corticale 3.5 x26mm
+false
+Vis corticale 3.5 x 30mm
+false
+Vis Corticale 3.5 x 36mm
+false
+Kirschner fil forage 1.2 x 310mm TROC./RD.
+false
+Kirschner fil forage 1.5 x310mm TROC./ RD
+false
+Kirschner fil forage 1.8 x310mm TROC./RD.
+false
+Kirschner fil forage 2.0 x310mm TROC./RD.
+false
+Clou Steinmann 4.0 x 150mm PTE TROC.TRIANG
+false
+Clou Steinmann 5.0 x150mm PTE TROC. TRIANG
+false
+Taraud D3.5mm Embase AO
+false
+Taraud D4.5mm L130/63mm Embase AO
+false
+Traud d3.5mm L130/63mm Embase AO
+false
+Tournevis SW3.5 L200mm
+false
+Comprimetre complet
+false
+BRASSARD
+false
+BRASSARD P.Enfants
+false
+Position Meche Spirale D10.0mmCanulee
+false
+Douille prot. de tissu P.D6.0mm / FR516R
+false
+Douille Prot . de Tissu P.D7.0mm/FR517R
+false
+Douille Prot.de Tissu P.D8.0mm/FR518R
+false
+Douille Prot.de Tissu P.D9.0mm/FR519R
+false
+Douille Prot.de Tissu P.D10.0mm/FR520R
+false
+Position set D'implantatiion AV.F0035T
+false
+Micro speed arthro unite centrale
+false
+Microspeed uni commande a pied 2 pedale
+false
+Microspeed uni P.A.M.shaver
+false
+Cutter lateral a dents D4.5mmjetable
+false
+Trimmer de cartilage D4.5mm jetable
+false
+Resecteur rayon pleine D4.5mm jetable
+false
+Resect.rayon pleine denteeD4.5mm jet.
+false
+Resecteur elliptique D4.5mm jetable
+false
+Fraise spherique D4.5mm jetable
+false
+Set de tuyau D'aspiration P.Arthroscopie
+false
+Position suture board CPL.
+false
+Viseur tibiale P.reconstruction de LCA
+false
+Position viseur femorale 5mm offset
+false
+Position foret de tete D4.5mm canulee
+false
+Position foret de tete graduee D5.0mm
+false
+Position foret de tete graduee D6.0mm
+false
+Position foret de tete graduee D7.0mm
+false
+Position foret de tete graduee D8.0mm
+false
+Position foret de tete graduee D9.0MM
+false
+Position foret de tete graduee D10.0mm
+false
+Position foret de tete graduee D11.0mm
+false
+Position Auxila.A nouer P.suture DISK
+false
+Position gouge notch crbe
+false
+Position barre mesure de prof.grad.300mm
+false
+Position stripper de tendon D16.0mm
+false
+Position stripper de tendon D17.0mm
+false
+Position broche forage/extr D2.7X380mm
+false
+Kirschner fil forage 2.5x310mm troc./rd
+false
+Position meshe spirale D5.0mm canlee
+false
+Position meshe spirale D6.0mm canulee
+false
+Position meshe spiraleD7.0mm canulee
+false
+Tube sec
+false
+Boite de pÇtri simple compartiment (unitÇ)
+true
+Sonde d'alimentation CH12
+false
+Sonde d'alimentation CH-14
+false
+Sonde d'alimentation CH-16
+false
+Sonde d'alimentation CH-18
+false
+StÇridrap 45x75 (unitÇ)
+false
+Boite inox 250x125x50 (unitÇ).
+false
+JV 1087 (Boite de 36)
+false
+JV 2016
+false
+WC 31 (Boite de 12)
+false
+Blouse pour Visiteur
+false
+Couvre Chaussures (Bleu)
+false
+Crochet coagulant et aspirant (MEDITRADE)
+false
+SrÇrile hip set (Champ opÇratoire complet)
+false
+Sur chaussure avec Çlastique (couvre chaussure)
+false
+Position twister P.suture DISK
+false
+Position Meche spirale D8.0mm Canulee
+false
+Position Meche spirale D9.0mm Cannulee
+false
+Pince hemostatique halsted 1x2D.185mm
+false
+Pince hemost.kocher-ochsn.DRT.1X2G.200mm
+false
+Pince hemost.kocher-ochsn.DRT.1X2G.240mm
+false
+Pince a polypes maier a crem.DRT.265 mm
+false
+Pince peritoine miculicz 205mm
+false
+Pince hemost.overholt-ceissend #1 209mm
+false
+Pince hemost.overholt-ceissend#3 227mm
+false
+Pince hemost.mixter 228mm
+false
+Pince hemost. overholt-ceissend#3 278mm
+false
+Pince hemoste.gemini230mm
+false
+Pince hemost.O'shaugnessy 230mm
+false
+Durogrip porte-aigu.hegar 206mm
+false
+Durogrip porte-aiguille de'Bakey 230mm
+false
+Durogrip porte-aigu .stratte 230mm
+false
+Ecarteur roux double jeu 3
+false
+Ecarteur volkmann demi -aigus 4 griff
+false
+Ecarteur abdominal fritsch 75mm large
+false
+Ecarteur abdomin.et hepatiq.D.milkulicz
+true
+Ecarteur abdominal et hepati.D.MIKULICZ 155x50
+false
+Ecarteur abdominal et hepati.D.Mikulicz
+false
+Spatule abdomin.D.haberer maleable con.
+false
+CROCHET A EXPLORATION CASPAR 90¯7mm
+false
+Pice ATR.cuyon P.pedicule ren 240mm
+false
+Pince ATR.D cuyon 230mm
+false
+Clamp vasc de'bakey mors 54/99/270mm
+false
+Pince a dissect.et lig.D.de'bakey 230mm
+false
+Pince a ovaires ATR.DRT.250mm
+false
+Pince ATR.allis 8.4mm 220mm
+false
+Pince ATR .ALLIS 8.4mm 255mm
+false
+Pince a calculs renaux randall 225mm
+false
+Pince a calculs reneaux randall225mm
+false
+Pince a calculs renaux randall225mm
+false
+Pince a calculs renaux randall 190mm
+false
+SONDE AVEC MANCHE D:2/300mm
+false
+Dilatateur olivaire .Ple choledoque 2mm
+false
+Curette P.calculs bilaires luer 2.8mm
+false
+Curette Pcalculs bilaires luer4.3mm
+false
+Sonde boutonnee en etain D:3.5/300mm
+false
+Compartiment interieur P.BL930R
+false
+Coupe D.laboratoire 0.16 LTR.
+false
+Coupe D.laboratoire 0.4 LTR.
+false
+HARICOT 250
+false
+Aigu.redon char.10 peu cbe pointe lame
+false
+Aigu.redon char.12 peu CBE pointe lame
+false
+THORACOTOMY SUPPLEMENT
+false
+Rugine doyen P.adultes
+true
+Rugine lambotte 15mm
+false
+Rugine semb 231mm
+false
+Rugine semb 230mm
+false
+Davier a os et P. les cotes semb 190mm
+false
+Pince coupante ruskin-liston CRB.
+false
+Pince gouge stille-ruskin 240mm
+false
+Costotome brunner 340mm
+false
+Ecarteur costal de'bakey grand modele
+false
+Basis container 1/1 200mm
+false
+Cuve p1/1 container perf.hauteur 187mm
+false
+1/1-couvercle perfore basis argent
+false
+1/1PANIER PERFORE485X253X56mm
+false
+Tapis silicone standard paniers GR.DIN
+false
+Plaquette rouge avec inscr.13 chiffres
+false
+Filtre permanent P.Container PAQ/10pc
+true
+Basis container 3/4 100mm
+false
+Cuve P 3/4 Container perfor.hauteur :90mm
+false
+3/4-Couvercle perfor.Hauteur:90mm
+true
+3/4 Panier perfore 406 x 253 x56 mm
+false
+Tapis en silicone pour panniers perf.3/4
+false
+Pince ATR.cuyon P.pedicule ren.240mm
+false
+Seringue 2.5 cc (unitÇ) G23
+false
+Plaque d'eventration non rÇsorbable 30x30
+false
+cathter jugulaire double lumiäre d'hÇmodialyse 15cm (unitÇ)
+false
+catheter jugulaire double lumiäre d'hÇmodialyse 20cm (unitÇ)
+false
+Polyglactine 910 tressÇs traitÇs N¯0 antibacterien CR 30mm (B/36)
+false
+Polyglactine 910 tressÇs traitÇs N¯2/0 antibactÇrien CR 24mm (B/36)
+false
+Dafilon blue 2/0 non-resorbable 75cm 3/8 cercle (DS30) Bt/36 
+true
+Dafilon blue polyamide non-resorbable USP 4/0 3/8 de cercle 75cm DS24 (Bt/36)
+false
+Dafilon Blue 0 non absorbable 75cm 3/8 de cercle 30mm (Bt/36)
+false
+Dafilon Blue 3/0 non absorbable 90cm 3/8 de cercle
+ 30mm (BT/36u)
+false
+Safil violet 4/0 resorbable 1/2cercle 70cm HR22 (Bt/36)
+false
+LYOSTYPT  10X12CM (Bt/ 8)
+false
+Ciseaux metzenbaum 200mm
+false
+Ciseaux nelson-metzenbaum CRB230mm
+false
+Dafilon black 9/0 non absorbable 30cm 3/8 de cercle Bt/12
+false
+Silkam black 5/0 non RÇsorbable 45cm 3/8 de cercle
+false
+Silkam black 4/0 45cm 3/8 de cercle
+false
+Safil violet 3/0rÇsorbable 70cm 1/2cercle HR22 Bt/36
+false
+Safil violet 4/0 resorbable  1/2 cercle 70cm HR17 (Bt/36) 
+ 
+false
+Safil violet 6/0 resorbable 70cm 1/2 cercle HR13(Bt/36)
+true
+Safil violet 5/0 70cm 1/2cercle HR22
+false
+Silkam black 3/0 non RÇsorbable 75cm 3/8 de cercle DS24
+false
+Silkam black  usp 3/0 (metric 2) 75cm ; 1/2 cercle (HR30)  Bt 36
+false
+Silkam black 4/0 non - RÇsorbable 75cm 1/2 de cercle HR26 (Bt/36)
+false
+Safil violet rÇsorbable 9/0 3/8 decercle 30cm
+false
+Premilene mesh-hernia repair, 26cmx36cm (Bt/5)
+true
+Premicron green 2/0 non-rÇsorbable  90cm (2x HRC 26) Bt/36
+false
+Premilene 3/0 75cm 2xDR26
+false
+Premilene 7/0 60cm 2xDRMV10
+true
+Premilene 8/0 non-rÇsorbable 75cm( 2xDRMV6) BT/12
+false
+Premilene 6/0 75cm 2xDRC13
+false
+STEELEX Electrode set 2/0 60cm HR26
+true
+Aiguille RachinesthÇsie G25 (Spino)
+false
+Aiguille RachinesthÇsie G26 (Spino)
+false
+ARTHOSCOPY BASIC SET
+false
+OPTIQUE DE GRAND ANGLE D4.0 30-LU175MM
+false
+POSITION ACL RECONSTRUCTION BASIC
+false
+CHEST INSTRUMENT SET
+false
+ECLUSE SOFT-TIP DI4,0MM P.L180MM
+false
+CABLE FIBRES OPTIQUES 4.8MM 2,5 M
+false
+CROCHET SONDE LONG.TOT.230MM CROCH.5,0MM
+false
+ART H CUT STAND./LONG 6,5X2,4 20?CRBE HT
+false
+ART H CUT STAND.5,5X2,4 45¯ ANG.GCH
+false
+ART H CUT STAND.5,5X2,4 45?ANG.DRT
+false
+ART H CUT PINCE PREH.ARRET L9,0MM
+false
+ART H CUT TIGE P.FO676R
+false
+ART H CUT TIGE P.FO688R
+false
+ART H CUT KIT DE NETTOYAGE
+false
+PINCE A POLYPES E.PANSEM GROSS CRB.200MM
+false
+DUROTIP CISEAUX LIG.METZENBAUM CRB.145MM
+false
+PINCETTE A DISSEQUER 1X2G.145MM
+false
+PINCETTE A DISSEQUER LARGEUR MOYEN 145MM
+false
+CUVE P/CONTAINER MINI HAUTEUR:67MM
+false
+COUVERCLE SEUL PERF.P.MINI-CONT.ROUGE
+false
+COUVERCLE SEUL PERF.P.MINI-CONT.BLEU
+false
+COUVERCLE SEUL PERF.P.MINI-CONT.VERT
+false
+COUVERCLE SEUL PERF.P.MINI-CONT.OR
+false
+COUVERCLE SEUL PERF.P.MINI-CONT.ARGENT
+false
+Cuve pour 3/4 container hauteur:90mm
+false
+PANNIER PERFORE
+false
+CUVE P/CONTAINER MINI HAUTEUR:67MM
+false
+CROCHET MODELE FIN POINTU 4 GRIFFES
+false
+ECARTEUR KOCHER-LANGENBECK 25X6MM
+false
+Art H Cut Stockage P.Instrumets
+false
+Panier a Perforation Large 406x253x76mm
+false
+Ciseaux fin DRT ptu/ptu 115mm N¯04
+false
+Ciseaux metzenbaum DRT 200mm N¯02
+false
+Durotip ciseaux metzenbaum DRT 230mm N¯06
+false
+Durotip Ciseaux  metzenbeaum CRB 230mm N¯03 
+
+
+
+false
+ Ciseaux  nelson metzenbeaum  CRB 280mm N¯02
+false
+  Pince a dissequer N¯06
+
+false
+Pince a  vaisseaux ATR 200mm
+false
+Pince ATR debakey LM 1,5mm DRT 240mm N¯04
+false
+Pincette a dissequer MOD russe 200mm N¯04
+false
+Pincette a dissequer MOD russe 150mm 
+false
+Pince a Prehension   JACKSON 4X5G 155mm N¯10
+false
+Pince a pansem collin AV crema DRT 240mm
+false
+
+Pince hemostaT micro-halsted CRB 125mm 
+false
+Pince hemostatique coller CRB 160mm N¯16
+false
+Pince bengolea CRB 245mm (piäce)
+false
+Pince hemostatique collin CRB 160mm N¯06
+false
+Pince pansem foerster mor cannel 240mm
+false
+Pince hemost Kantrowitz 200mm N¯06
+false
+Pince hemost Kantrowitz 245mm N¯04
+false
+Pince hemost Kantrowitz 274mm N¯02
+false
+Pince hemost mixter 290mm
+false
+Pince bronchite 230mm MORS 60mm
+false
+
+Durogrip porte aigu-hegar-mayo 235mm N¯04
+false
+Pince CALC BIL Desiardins LT CBE 240mm N¯02
+
+false
+Pince P. CAL  culs biliaires 255mm
+false
+Elect spher D:6mm DRT TIGE CRTE D:4,0mm
+false
+Elect a palette 8x10mm DRT TIGED 4.0mm N¯02
+false
+Pince isolee 200mm raccord downs N¯02
+false
+Pince isolee 230mm raccord downs N¯02
+false
+Pince isolee 270mm raccord downs 
+false
+Anuscope mathieu a 3vales
+false
+Anuscope sims P.adultes
+false
+Son P.FIST lockhart mummery DRT#1/165mm
+false
+Son P.FIST lockhart mummery RETRO#4/165mm
+false
+Sonde cannel brodie PTE BOUT D:3.5/200mm
+false
+Sonde boutonnee DBLE D. TETE D:3/190mm
+false
+Dilatateur olivaire P.LE choledoque 3mm
+false
+Rasoir a lames interchangeables
+false
+Lames interchangeables P.BA244R N¯03L/08
+false
+Coupe D.laboratoire 1.0LTR N¯03
+
+
+
+
+false
+Ecarteur mayo-adams a deux valvesN¯02
+false
+Ecarteur wullstein 130mm mousse N¯04
+false
+Cuve pour 3/4 container hauteur 135mm N¯04
+false
+Piece D.fond container D.ENDOSC n)01
+false
+Couvercle container D.ENDOSCOPIE N¯01
+false
+Panier perfore P.CONTAINER d.endoscopie
+false
+Tapis silicone P .container D endoscopie N¯01
+false
+Chevalet P.endocontainer
+false
+Ciseaux N¯4
+false
+Pince a Prehension N¯06
+false
+Clip Vasculaire N¯04
+false
+Pince Hemostatique N¯16
+false
+Pince en Coeur N¯10
+false
+Dissecteurs N¯10
+false
+Clamps Angle Droit N¯02
+false
+Portes Aiguilles N¯08
+false
+Valves et Ecarteurs N¯02
+false
+Pince Calc Bil Desiardins LT CBE 225mm N¯02
+false
+Sur-Couvercle P.Cont Base 3/4 Acier Inox
+false
+Manche Bistouri P.Micro Lame 145mm (piäce)
+false
+Pincette Diss.Stille-Baraya 3x4G.180mm (piäce)
+false
+Micro-Pince Plateau Mors LRG.0,8mm.180mm (piäce)
+false
+Pincette Hemost.Mosquito Crb.Mod.Baby 100mm (piäce)
+
+false
+Pince Mosquito Halsted 1x2G.CRB.125mm (piäce)
+false
+Pince Hemostat. Fraser-Kelly Cbe  180mm (piäce)
+false
+Pince Intest Allis 4x5 Griffes 155mm (piäce)
+
+false
+Ecarteur Farabeuf Double Jeu 2 (set)
+false
+Ecarteur US-Army 26x15/43x15-23x15/40x15 (set)
+false
+Ecarteur Adson-Baby 3x4G.MI-Acere Artic (piäce)
+false
+Ecarteur 3x3 Dents Demi-Aigus (piäce)
+false
+Ecarteur Gosset (piäce)
+false
+Ecarteur Costal Finochietto P.Adultes (piäce)
+false
+Rapproche-Cotes et Ecart.D.Sellors 200mm (piäce)
+false
+Releveur Paupieres Desmarres Enfant (piäce)
+false
+Manche Bistouri N¯7 162mm (piäce)
+false
+Mini Pince Atr.Neonatal Fortem Coudee (piäce)
+false
+Pince Baby-Derra Grand Modele 175mm
+false
+Pince Atr. Cooley CRB.En Arr.195mm (piäce)
+false
+Pince P Aneurisme Atr De'Bakey 250mm (piäce)
+false
+Pince P.Aneurisme Atr De'Bakey 300mm (piäce)
+false
+Pince a Bronche Crafoord-Sellors 240mm (piäce)
+false
+Pince Atr.D.Lambert a Anastomoses (piäce)
+false
+Pince Atr.D.Cooley 60¯ 160mm (piäce)
+false
+Pince Atr.D.Cooley 90¯ 150mm (piäce)
+false
+Pince Bulldog Atr.Glover CRB 30/65mm (piäce)
+false
+Pince Hemost.o'shaugnessy 255mm (piäce)
+false
+Pince Hemost.o'shaugnessy 200mm (piäce)
+false
+Pince Hemost.Baby-Mixter 140mm (piäce)
+false
+Pince Branchique Semb Cbure Forte 240mm (piäce)
+false
+Pince Hemost Baby-Mixter 180mm (piäce)
+false
+Durogrip Porte -Aig. Castroviejo 0.2/215mmmm (piäce)
+false
+Durogrip Porte-Aiguille 0.2/180mm (piäce)
+false
+Micro porte-Aigu.Mors rev.diamant 180mm (piäce)
+false
+Canule aspiratrice de'bakey D:3/275mm (piäce)
+false
+Mandrin seul P.tourniquet FB651 (piäce)
+false
+Mandrin seul P.tourniquet FB652 (piäce)
+false
+Pince de pose de clip small 150mm 25¯ (piäce)
+false
+Pince de pose de clip small 203mm 25¯ (piäce)
+false
+Pince de pose de clip medium 150mm 25¯ (piäce)
+false
+Pince de pose de clip medium 203mm 25¯ (piäce)
+false
+Pince de pose de cli.med/large 203mm 25¯ (piäce)
+false
+Pince de pose de cli.med/large 203mm 65¯ (piäce)
+false
+Pince de pose de clip large 203mm 25¯ (piäce)
+false
+Pince de pose de clip large 280mm 25¯ 
+false
+Pince de pose de clip large 280mm 65¯ 
+false
+Trephine D:4mm longeur 140mm
+false
+Dilatateur vascul.de'bakey 190mm 1.0mm (piäce)
+false
+Dilatateur vascul.de'bakey 190mm 1.5mm (piäce)
+false
+Dilatateur vascul.de'bakey 190mm 2.0mm (piäce)
+false
+Dilatateur vascul.de'bakey 190mm 2.5mm (piäce)
+false
+Canule A.laver vaisseaux schmid flex (piäce)
+false
+Crochet nerfs et vaisseaux krayenbuehl (piäce)
+false
+MR-Elevateur freer tranchant/mousse (piäce)
+false
+Champ p.container (piäce)
+false
+Filtre ster.papier rond p.cont.JK/JN (piäce)
+false
+Macro-line scie alternat.ang.s.lames
+false
+Cle de serrage hexagonal standard
+false
+Protege-lame p.GB135R sur GA621/GB091R
+false
+Pince hemost.finochietto 245mm (piäce)
+false
+Premicron blanc 5/0  45cm 1/4 cercle 2XVLM08 (Bt/12) 
+false
+OSTEOTOME MASING DRT.
+
+false
+Ciseau p.osteotomie laterale gauche
+false
+Ciseau p.osteotomie laterale drt.
+false
+Ciseau p.le septum cottle 4mm
+false
+Ciseau p.le septum cottle 7mm
+false
+Ciseau p.le septum cottle 9mm
+false
+Ciseau p.le septum cottle 6mm
+false
+Osteotome cinelli 10mm
+false
+Osteotome cinelli 12mm
+false
+Osteotome cinelli 14mm
+false
+Osteotome fomon 5mm avec guide
+false
+Osteotome fomon 8mm avec guide
+false
+Ecarteur ALM 4X4G. Pointu 70mm.
+false
+Pince Pose Clip Small 280mm 25¯
+false
+Ciseaux p.rhinoplastie cottle 165mm
+false
+Ciseaux fomon 135mm
+false
+Ciseaux a iridectomie graefe 100mm
+false
+Ciseaux cottle mousses CBS 105mm
+false
+Ciseaux joseph 150mm
+false
+Ciseaux chirurgicaux joseph 150mm
+false
+Ciseaux nasaux knapp 105mm drt.s
+false
+Ciseaux cottle p.le nez 105mm crb.s
+false
+Elevateur howarth double cbe siplat
+false
+Rugine a aspir.av.mandrin larg.4mm
+false
+Rugine d.aspir.av.mandr.d:5mm 200mm
+false
+Elevateur double cottle
+false
+Elevateur sebileau 5/175mm
+false
+Elevateur quervain 6/195mm
+false
+Ecarteur double p.aile du nez converse
+false
+Speculum nasal aufricht 160mm
+false
+Ecarteur nasal fomon 145mm
+false
+Gouge partsch 140mm 3mm large
+false
+Gouge partsch 140mm 5mm large
+false
+Gouge alexander 170mm 7mm
+false
+Gouge alexander 170mm 9mm
+false
+Gouge alexander 170mm 11mm
+false
+Pincette diss.adson mors stri.1x2g.120mm
+false
+Durogrip pincette adson 120mm
+false
+Pince-gouge lempert 200mm
+false
+Pince-gouge lempert crb.200mm
+false
+Pince emporte-piece luc 200mm
+false
+Pince ash p.la cloison nasale
+false
+Durogrip porte-aiguille de'bakey 165mm
+false
+Ecraseur p.os et cartilages avec pince
+false
+Ciseaux universels 1mors crante 120mm
+false
+Pince universelle a crampons poitue
+false
+Ciseau-burin lucas larg.4mm 160mm
+false
+Osteotome long.200mm larg.10mm drt
+false
+Osreotome long.200mm larg.20mm drt.
+false
+Gouge 140mm 4mm large
+false
+Gouge 140mm 8mm large
+false
+Maillet en metal faces garnies D.nylon
+false
+Disques rech.nylon p.maillet FL36 paire
+false
+Couteau a tranchant plester 2.4x3.5mm
+false
+Durotip ciseaux a dissection DRT.115
+false
+Durotip ciseaux crb.sur le plat 115mm
+false
+Elevateur freer double tranchant
+false
+Crochet cutane barsky 152mm
+false
+Crochet cutane mc'indoe larg.9mm 150mm
+false
+Crochet nasal avec guide-scie
+false
+Ostetome lambotte 125mm 10mm
+false
+Ostetome lambotte 125mm 15mm
+false
+Ostetome lambotte 125mm 4mm
+false
+Rape maltz p.rhinoplastie 181mm
+false
+Rape lewis p.rhinoplastie 175mm
+false
+Rape aufricht 210mm tranchante en tirant
+false
+Pincette disseq.micro-adson-biemer 1x2g
+false
+Costotome giertz-stille 250mm
+false
+Ouvre- bouche molt p.enfant 100mm
+false
+Ouvre- bouche 125mm
+false
+Ouvre bouche doyen-collin 120mm
+false
+Ciseaux universels rouge 180mm
+false
+Durogrip porte-aigu.hegar-olsen 165mm
+false
+Primeline 1/2 couvercle rouge
+false
+Lame scie p .gd 307/20/16/0.3mm
+false
+Lame scie p .gd 307/25/12/0.3mm
+false
+Fraise Rosen D2.7mm / iso 027 2035x70mm
+false
+Fraise rosen D4.5mm / iso 027 2035x70mm
+false
+Fraise de definition D3.1mm / iso 031 2.35 x 70mm
+false
+Fraise de definition D6.0mm / iso 060 2.35 x 70mm
+
+false
+Fraise diammantee D4.5mm / iso 045 2.35 x70mm
+false
+Fraise lindemann D1.8mm 12mm 2.35 x 70mm
+false
+Fraise conique D8.0mm / iso 080 2.35 x 70mm
+false
+Meche d1.4mm L58 /28mm embasse ronde
+false
+Meche d2.0mm L65 /35mm embasse ronde
+false
+Meche d1.1mm l38 /23mm embasse dentaire
+false
+Meche d1.5mm L28 /11mm embasse dentaire
+false
+Cuve pour 1/1 container hauteur 90mm
+
+false
+1/1 panier perfore 540 x253/56mm
+false
+Elan-ec moteur rotat.d/g av.un.d'irrig.
+
+false
+Support mobile regable en hauteur
+false
+Elan/microtron plaque de protect.ster.
+false
+Support p.arbre flexible sur ga416/ga419
+false
+Guide p.arbre flexible sur ga416/ga419
+false
+Champ sterile p.GA416/GA419/GD417/GD421
+false
+Tissu recouvrem.jet.p.ga419/gd417/gd421
+false
+Support p.panier p.plaques de prot.ster.
+false
+Bouton rotatif p.unitees centr.av.irrig.
+false
+Tete de percem.p.bout.1000ml/bouch.caout
+
+false
+Tete de percem.p.bout.500ml/bouch.caout.
+false
+Ligne d'irrigat.jet.ster.p.micro moteurs
+
+false
+Micro arbre flexible 2,3m
+false
+Buse de spray p.gb166r/GB169R
+
+false
+Mandrin A 3 MACH.>D6,5MM INCL.GA031R
+false
+Trepan cranien 6/9mm embase triang.
+false
+Trepan cranien 6/12mm embase triang.
+false
+Trepan cranien 12/15mm embase triang.
+false
+Micro-line craniotome/prot.dure-m.mobile
+false
+Protege dure-mere mobile p.GB265r/GB299
+false
+Craniofix 2 D:11mm 12 clips sterile
+false
+Craniofix 2 d:16mm 6 pinces steriles
+false
+Applicateur craniofix 2 non demont axial
+false
+Craniofix instrument D.coupe
+false
+Craniofix piece d.retrait
+false
+Tray polyvac p.instr.craniofix
+false
+1/2-couvercle perfore basis argent
+false
+Dagrofil green polyester  non-resorbable  1 metric4  75cm 1/2 cercle
+ 37mm(HR37  Bt/36 
+
+false
+Robinet 3 voies discofix C bleu
+false
+Robinet 3 voies discofix C rouge
+false
+"Discofix C" Rampe de 3 robinets
+false
+Almarys Twin support de poche urostomie 40mm
+true
+Support de poche de colostomie 15-75 (80mm)
+false
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 60mm
+true
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 80mm
+false
+AT+ ILEO BEIGE AVEC FILTRE (poche d'ileostomie) 40 MM (B/30)
+false
+AT+ ILEO BEIGE AVEC FILTRE (poche d'ileostomie) 50 MM (B/30)
+false
+AT+ ILEO BEIGE AVEC FILTRE (poche d'ileostomie) 60 MM (B/30)
+false
+AT+ ILEO BEIGE AVEC FILTRE (poche d'ileostomie) 80mm
+true
+FLEXIMA ILEO BEIGE 15-70 AVEC FILTRE
+false
+FLEXIMA URO TRANSP 12-55 (poche d'urostomie)
+true
+Catheter central Monolumiere  adulte  20cm G16
+false
+Catheter central bilumiere pediatrique G18/20 8cm
+false
+Catheter central bilumiere pediatrique G18/20 13cm
+false
+Catheter central bilumiere pediatrique G18/20 8cm
+false
+Catheter central bilumiere pediatrique G18/20 13cm
+false
+"CERTOFIX TRIO 715"Catheter central trilumiere adulte  15cm
+true
+"CERTOFIX TRIO 720"Catheter central trilumiere adulte  20cm
+true
+CERTOFIX DUO HF V1215
+false
+"UREOFIX" 500 N 1.70M Vidangeable  Appareil de diurese horaire
+false
+"URECATH" Sonde ureterale double j ch06 long 27.5cm
+false
+"URECATH" Sonde ureterale double j CH07.5 long 27.5cm
+false
+"NEPHROFIX " Set de nephrostomie percutanee CH08
+true
+"NEPHROFIX" Necessaire de base pour nephrostomie percutanÇe CH11
+false
+Guide d'introduction G 20 x 1 3/8"
+
+
+true
+Guide d'introduction G 22 x 1 3/8"
+true
+"SPINOCAN"Aiguille spinale pediatrique G22 (0.7 x 40mm)
+false
+"PENCAN"  Aiguille spinale pointe de crayon G25 (0.53 x50mm)
+true
+"PENCAN "Aiguille spinale pointe de crayon G27 (0.42 x50mm)
+true
+BOITE THORACIQUE
+false
+Lyostypt 3x5cm Gaze hemostatique Bt/12
+false
+"SPINOCAN" Aiguille spinale   avec biseau quincke. G20 (0.9x88mm)  
+false
+Premicron Green usp 0 non-absorbable  75cm  1/2 cercle HR30 Bt/36
+false
+Premicron Green 1 non-absorbable  75cm1/2cercle HR30  (Bt/36) 
+true
+Premicron Green non-absorbable usp 3/0 (metric 2) length 75cm ; 1/2 cercle HR30 Bt/36
+false
+Dagrofil green  non-absorbable usp 0 (metric 3, 5) 
+ usp 0 (metric 3,5)  75cm ; 3/8 cercle DS30 Bt/36
+false
+Dagrofil green 2non-absorbable 75cm ; 3/8 cercle DS30 Bt/36
+false
+Dagrofil Green non-resorbable  1  75cm 3/8 cercle DS30 (Bt/36)
+false
+LYOSTYPT 5X8cm Gaze hemostatique Bt/ 6
+
+false
+CERVIX SET (fil de cerclage) 50cm 1/2 Cercle (2XHRT48) (Bt/12)
+
+true
+Coton hydrophile p/500
+false
+Premilene 7/0 non-rÇsorbable 3/8 de cercle 60cm (2xDRMV10 )BT/12
+false
+Premilene 6/0 non-rÇsorbable 1/2 de cercle 75cm (2xDRC13) BT/36
+false
+STEE EL BLUE 2/0 60CM HR26
+false
+pompe a debit continu easypump
+false
+Etui easypump
+false
+Premilene 2/0 non-rÇsorbable 75cm  1/2 cercle (HR26) Bt/36 
+true
+Premilene 4/0 non-rÇsorbable75cm  1/2 cercle(HR17)Bt/36
+false
+ Monoplus Violet 6/0 rÇsorbable 70CM 1/2 cercle HR13 Bt/36
+false
+PolypropylÇne7/0 monofil bleu 1/2 cercle 17mm Bt/36 
+false
+ELEVATEUR DOUBLE COTTLE
+false
+RUGINE A ASPIR.AV.MANDRIN LARG.4MM
+false
+ELAN EC EC STERILE CONTAINER
+false
+Ecarteur scoville-richter CPL
+false
+Targon clou femorale acier 10x300mm
+false
+targon clou femorale acier 10x320mm
+false
+targon clou femorale acier 10x340mm
+false
+targon clou femorale acier 10x360mm
+
+false
+targon clou femorale acier 10x380mm
+false
+Targon clou femorale acier 10x400mm
+false
+Targon clou femorale acier 10x420mm
+false
+Targon clou femorale acier 10x440mm
+false
+Targon clou femorale acier 11x320mm
+false
+Targon clou femorale acier 11x340mm
+false
+Targon clou femorale acier 11x360mm
+false
+Targon clou femorale acier 11x380mm
+false
+Targon clou femorale acier 11x400mm
+false
+Targon clou femorale acier 11x420mm
+false
+Targon clou femorale acier 11x440mm
+false
+Targon clou femorale acier 12x320mm
+false
+Targon clou femorale acier 12x340mm
+false
+Targon clou femorale acier 12x360mm
+
+false
+Targon clou femorale acier 12x380mm
+false
+Targon clou femorale acier 12x400mm
+false
+Targon clou femorale acier 12x420mm
+false
+Targon clou femorale acier 12x440mm
+false
+Targon clou femorale acier 13x340mm
+false
+Targon clou femorale acier 13x360mm
+false
+Targon clou femorale acier 13x380mm
+false
+Targon clou femorale acier 13x400mm
+false
+Targon clou femorale acier 13x420mm
+false
+Targon clou femorale acier 13x440mm
+false
+Targon vis verrouill.acier 5,0x20mm
+false
+Targon vis verrouill.acier 5,0x24mm
+false
+Targon vis verrouill.acier 5,0x28mm
+false
+Targon vis verrouill.acier 5,0x32mm
+false
+Targon vis verrouill.acier 5,0x36mm
+false
+Targon vis verrouill.acier 5,0x40mm
+false
+Targon vis verrouill.acier 5,0x44mm
+false
+Targon vis verrouill.acier 5,0x48mm
+false
+Targon vis verrouill.acier 5,0x52mm
+false
+Targon vis verrouill.acier 5,0x56mm
+false
+Targon vis verrouill.acier 5,0x60mm
+false
+Targon vis verrouill.acier 6,0x36mm
+false
+Targon vis verrouill.acier 6,0x40mm
+false
+Targon vis verrouill.acier 6,0x44mm
+false
+Targon vis verrouill.acier 6,0x48mm
+false
+"SPINOCAN" Aiguille spinale   avec biseau quincke. G25 (0.53x88mm)
+false
+"PENCAN" Aiguille spinale pointe de crayon G25 (0.51 x88mm)
+
+true
+PENCAN +INTR Aiguille spinale pointe de crayon avec introducteur G25 (0.53 x88mm)
+ 
+
+
+true
+"PENCAN Aiguille spinale pointe de crayon avec introducteurG25 (0.53x103mm)
+true
+ PENCAN +INTR Aiguille spinale pointe de crayon avec introducteur G27(0.42 x88mm)
+
+true
+"PERIFIX ONE "set peridurale pediatrique G20
+
+false
+"PERIFIX" Set peridurale adulte 401 G18
+
+
+false
+ ESPOCAN Set peri/rachi combine espocan + spinocan G27
+
+
+true
+"HEPAFIX" Necessaire pour biopsie hepatique G18
+
+
+false
+"HEPAFIX" Necessaire pour biopsie hepatique G16
+false
+"HEPAFIX" Necessaire pour biopsie hepatique G15
+false
+NEUROSTIMULATEUR STIMUPLEX HNS 12
+false
+STIMUPLEX A 25mm Aiguille de neurostimulation L 25mm
+
+true
+"STIMUPLEX  A 50mm
+Aiguille de neurostimulation L50mm
+
+false
+"STIMUPLEX A 100mm
+Aiguille de neurostimulation L100mm
+
+false
+"Proxima" poche adhÇsive vidangeable beige 10 - 70 mm (B/30)
+true
+"SPINOCAN" Aiguille spinale avec biseau quincke. G20 (0.9 x75mm)
+false
+"SPINOCAN" Aiguille spinale avec biseau quincke. G27 (0.41 x90mm)
+
+
+false
+Safil violet polyglycolic medium term resorbable 3/0 metric 2
+70cm 1/2 cercle, 13MM (HR13) Bt/36 
+ 
+
+
+false
+Mnolumiäre G16 L 30cm (unitÇ)
+false
+Bilumiäre G16 L 15cm (unitÇ)
+false
+Bilumiäre G18 L 15cm (unitÇ)
+false
+Catheter central pÇdiatrique par methode SELDINGER 8cm
+false
+Catheter central pÇdiatrique par methode SELDINGER 13cm (unitÇ)
+false
+Poche prÇdÇcoupable (unitÇ)
+false
+Catheter voie central monolumiere G14
+false
+Catheter voie central monolumiere G16
+false
+Dafilon black 9/0  30CM 3/8 cercle 2XDLM06S (Bt/12) 
+false
+"CERTOFIX DUO HF V1215
+"catheter jugulaire double lumiere d'hemodialyse 15cm
+true
+Safil violet 2 medium-term-absorbable 250cm Bt/12 
+false
+Safil violet   1 resorbable 250cm  Bt/12 
+false
+Safil violet usp 0 resorbable, (metric 3,5) 250cm(no needle) Bt/12 
+
+true
+Safil violet 2/0 resorbable  70cm 1/2 cercle HS26  (Bt/36) 
+false
+Safil violetresorbable  2/0  70cm 1/2 cercle  HS30  Bt/36 
+false
+Safil violet 3/0 rÇsoprbable 70cm 1/2 cercle HR17) Bt/36
+false
+Safil violet  3/0resorbable  70cm 1/2 cercle HS23  Bt/36 
+false
+Safil violet 4/0 medium-term-absorbable  70cm; 1/2 ciercle 15mm HS15Bt /36 
+false
+Safil  violet medium-term-absorbable  4/0 45cm; 1/2 circle21mm HS21  Bt/36 
+false
+Premilene blue 6/0 non-absorbable  
+75cm 3/8 cercle (2xDR13) Bt/36
+false
+ACCULAN 3TI DERMATOME
+false
+ACCULAN 3TI ACCUMULATEUR NIMH COURTE
+false
+ACCULAN 3TI COUVERCLE
+false
+ACCULAN 3TI ENTONNOIR STERILE
+false
+ACCULAN 3TI AUXIL.DE RETRAIT ACCUMULAT.
+false
+ACCULAN 3TI CHARGEUR
+false
+ECCOS SET P.ACCULAN 3TI DERMATOME GA670
+false
+DERMATOME DE RETICULE CUTANEE CPL.
+false
+PLAQUE DE SUPPORT 1:1,5 EMBALLE STERILE
+false
+PLAQUE DE SUPPORT 1:3 EMBALLE STERILE
+false
+PLAQUE DE SUPPORT 1:6 EMBALLE STERILE
+false
+"SPINOCAN" Aiguille spinale avec biseau quincke. G22 (0.7x88mm)
+false
+Premilene 7/0 non-resorbable 75cm  3/8 cercle (2xDR12) Bt/36
+false
+CERTOFIX DUO 715"Catheter central bilumiere adulte  15cm
+true
+Pemilene USP 3/0 non-resorbable 75cm 1/2cercle (2XHR26) Bt/ 36 
+false
+Premilene USP 6/0 non-absorbable  (2XDR12)  Bt/36
+false
+Premilene  USP 4/0 non-resorbable 75cm 1/2  (2XHR17) Bt/ 36 
+false
+Premilene usp 3/0 non-resorbable  75cm 1/2 cercle  (2xHR22) Bt/36
+
+false
+Catheter central bilumiere adulte  G16
+false
+Catheter central bilumiere adulte  G18
+false
+Safil violet usp 0 (metric 3,5) 90cm ; 1/2 cercle HR26 Bt 36
+false
+Safil violet usp 2/0 (metric 3) ;90cm ; 1/2 cercle  HR26  Bt 36
+false
+Safil  violet  3/0 resorbable 90cm  1/2 cercle  HR26 Bt 36
+false
+Safil violet  usp 1 70cm  1/2 cercle (HR22S) Bt 36
+false
+Silkam  blackusp 0   75cm ; 1/2 circle 30mm HR30  Bt 36
+false
+Silkam black usp 1   75cm ; 1/2 cercle   HR30  Bt 36
+false
+Silkam black  usp 2/0 (metric 3)  75cm  1/2 cercle (HR30)  Bt36
+false
+Premilene, non-absorbable usp 2/0  90cm ; 1/2 cercle  26mm  (2xHR26) Bt/ 36
+false
+Premilenen  usp 4/0 non-ressorbable 90cm  1/2 cercle  (2xHR22) Bt/ 36
+false
+Premilene usp 5/0 non-resorbable  75cm 1/2 cercle  (2XHR26) Bt/ 36
+false
+Premilene usp 5/0non-resorbable75cm 1/2 cercle  (2XHR17) Bt/ 36
+false
+Premilene usp 7/0, non-absorbable  75cm 3/8 cercle  (2xDR13)   Bt 36
+false
+Premilene usp 5/0 non-rÇsorbable 90cm ;3/8 cercle  (2xDR18) Bt/36
+true
+Surgical Loop Polyester Green 4mm 75cm Bt/24
+false
+Surgical Loop White 2.5mm  75cm Bt/ 24
+false
+Surgical Loop blue (cotton)  75cm Bt/24
+false
+Targon vis verrouill.acier 6,0x52mm
+false
+Targon vis verrouill.acier 6,0x56mm
+
+false
+Targon vis verrouill.acier 6,0x60mm
+false
+Targon vis verrouill.acier 6,0x64mm
+false
+Targon vis verrouill.acier 6,0x68mm
+false
+Targon vis verrouill.acier 6,0x72mm
+false
+Targon vis verrouill.acier 6,0x76mm
+false
+Targon vis verrouill.acier 6,0x80mm
+false
+Targon vis verrouill.acier 6,0x84mm
+false
+Targon vis verrouill.acier 6,0x88mm
+false
+Targon vis verrouill.acier 6,0x96mm
+false
+TIBIA
+false
+Targon clou tibiale acier 9x270mm
+false
+Targon clou tibiale acier 9x285mm
+false
+Targon clou tibiale acier 9x300mm
+false
+Targon clou tibiale acier 9x315mm
+false
+Targon clou tibiale acier 9x330mm
+false
+Targon clou tibiale acier 9x345mm
+false
+Targon clou tibiale acier 9x360mm
+false
+Targon clou tibiale acier 9x375mm
+false
+Targon clou tibiale acier 9x375mm
+false
+Targon clou tibiale acier 9x390mm
+false
+Targon clou tibiale acier 9x405mm
+false
+Targon clou tibiale acier 10x255mm
+false
+Targon clou tibiale acier 10x270mm
+false
+Targon clou tibiale acier 10x285mm
+false
+Targon clou tibiale acier 10x300mm
+false
+Targon clou tibiale acier 10x315mm
+false
+Targon clou tibiale acier 10x330mm
+false
+Targon clou tibiale acier 10x345mm
+false
+Targon clou tibiale acier 10x360mm
+false
+Targon clou tibiale acier 10x375mm
+false
+Targon clou tibiale acier 10x390mm
+false
+Targon clou tibiale acier 10x405mm
+false
+Targon clou tibiale acier 11x285mm
+false
+Targon clou tibiale acier 11x300mm
+false
+Targon clou tibiale acier 11x315mm
+false
+Targon clou tibiale acier 11x330mm
+false
+Targon clou tibiale acier 11x345mm
+false
+Targon clou tibiale acier 11x360mm
+false
+Targon clou tibiale acier 11x375mm
+false
+Targon clou tibiale acier 11x390mm
+false
+Targon clou tibiale acier 11x405mm
+false
+Targon clou tibiale acier 12x285mm
+false
+Targon clou tibiale acier 12x285mm
+false
+Targon clou tibiale acier 12x300mm
+false
+Targon clou tibiale acier 12x315mm
+false
+Targon clou tibiale acier 12x330mm
+false
+Targon clou tibiale acier 12x345mm
+false
+Targon clou tibiale acier 12x360mm
+false
+Targon clou tibiale acier 12x375mm
+false
+Targon vis verrouill.acier 4,5x20mm
+false
+Targon vis verrouill.acier 4,5x24mm
+false
+Targon vis verrouill.acier 4,5x28mm
+false
+Targon vis verrouill.acier 4,5x32mm
+false
+Targon vis verrouill.acier 4,5x36mm
+false
+Targon vis verrouill.acier 4,5x40mm
+false
+Targon vis verrouill.acier 4,5x44mm
+false
+Targon vis verrouill.acier 4,5x48mm
+false
+Targon vis verrouill.acier 4,5x52mm
+false
+Targon vis verrouill.acier 4,5x56mm
+false
+Targon vis verrouill.acier 4,5x60mm
+false
+Targon vis verrouill.acier 5,0x20mm
+false
+Premilene;  5/0 non-resorbable  90cm 1/2 cercle   (2XHR17) ;Bt/36
+false
+Premilene 7/0 non-resorbable 75cm 3/8 cercle (2XDR10) Bt/36
+true
+Premilene 4/0 non-resorbable 75cm 1/2cercle (2XHR26) Bt/36
+false
+Plaque d'os large 7 trous gliss L119mm
+false
+Khirschner fil forage 1.1 X 305 MM troc.dble
+false
+Khirschner fil forage 1.6 X 229 mm troc.dble
+false
+Khirschner fil forage 1.8 X 150 mm troc.dble
+false
+Rongeur S.caspar3mm TIGE 185mm DRT
+false
+SAFIL© MESH 12X8CM Bt/ 3
+false
+Rongeur S.caspar3mm TIGE 185mm COURBE
+false
+Kerrison DEM.130-EN HT 180mm 2mm FINE
+false
+Kerrison DEM.130-EN HT 180mm 3mm FINE
+false
+Crochet racine nerf S.LOVE45-ANG 220mm
+false
+TARGON FN INSTRUMENTATION
+false
+TARGON FN PLAQUE FEMORALE 130?
+false
+TARGON FN TELESCREW 70MM
+false
+TARGON FN TELESCREW 80MM
+false
+TARGON FN TELESCREW 90MM
+false
+TARGON FN TELESCREW 100MM
+false
+TARGON FN TELESCREW 110MM
+
+false
+TARGON VIS DE VERROUILL.TI 4,5X36MM STER
+false
+TARGON VIS DE VERROUILL.TI 4,5X40MM STER
+false
+TARGON VIS DE VERROUILL.TI 4,5X44MM STER
+false
+TARGON VIS DE VERROUILL.TI 4,5X48MM STER
+false
+TARGON VIS DE VERROUILL.TI 4,5X52MM STER
+false
+TARGON VIS DE VERROUILL.TI 4,5X56MM STER
+false
+TARGON VIS DE VERROUILL.TI 4,5X60MM STER
+false
+TARGON FN BROCHE GUIDE D2,5X310MM STER.
+false
+Safil violet 2/0 resorbable 70cm ; 1/2 cercle HR22(Bt/36)
+false
+Safil violet 4/0 resorbable 250CM ARO (Boite/12)
+false
+ARTHROSCOPY BASIC SET
+false
+CABLE OPTIQUE FULL HD D:4,8MM LONG.2,5M
+false
+Monosyn  5/0 resorbable 45cm ; 3/8 cercle DSMP13 Bt/36
+false
+Monosyn 3/0 resorbable 70cm 3/8 cercle  19mm DSMP19 Bt/36
+false
+Monosyn undyed 4/0 resorbable 45cm  3/8 cercle  DSMP16) Bt/36
+false
+Monosyn 1 resorbable 90cm ; 1/2 cercle HS48 Bt/ 36
+false
+Monosyn 0 resorbable 90cm ; 1/2 cercle HS40 Bt/36
+false
+Premilene5/0 non-resorbable 45cm ; 3/8 cercle  DS12 Bt/36
+false
+Premilene 4/0 non-resorbablel 45cm  3/8 cercle DS16 Bt/36
+false
+Safil Quick 0 resorbable 90cm  3/8 cercle DS30 Bt/36
+false
+Safil Quick 4/0 resorbable 70cm ; 3/8 cercle DS12 Bt/36
+false
+Safil Quick 2/0 resorbable70cm  3/8 cercle DS19 Bt/36
+false
+Lame scie stern.Alternat 35/8/0.6/101mm
+false
+Plaque d'os large 6trous gliss L103mm
+false
+Plaque d'os large 8 trous gliss L135mm
+false
+Compresse occulaire B/100
+true
+premilene 5/0  non-rÇsorbable 75cm 3/8 cercle  (HR17)Bt/36 
+false
+Instrument for arthroscopy
+false
+MANCHE BISTOURI P.LAMES MICROCH.200MM
+false
+MICRO LAMES BISTOURI #365(1PAQ = 10PC)
+false
+POIGNEE 125MM P.FO744R
+false
+MENISCOTOME POINTU DRT/FO730R
+false
+COUTEAU DE MENISQUE POINTU CRBE/FO730R
+false
+MENISCOTOME 4MM DRT/F0730R
+false
+TRIMMER MENISQUE 5MM POINTE SONDE/FO730R
+false
+COUTEAU DE LANCETTE 5MM DRT/FO730R
+false
+INSTRUMENT FRANCE ART(H)CUT
+false
+ART H CUT STAND 5.5X2.4 DRTE
+false
+ART H CUT STAND 5.5X2.4 15¯CRB HTE
+false
+ART H CUT LARGE 5.5X3.6 15¯ CRB HTE
+false
+ART H CUT ETR./LGUE 605X1.6 20¯CRBE HT
+false
+ART H CUT CISEAU LNG.COUPE 8.0MM DRT
+false
+Coton cardÇ (S/500gr)
+false
+Safil violet resorbable 2/0 70cm  3/8 circle DS35 (Bt/36)
+false
+Proxima 2 support de poche pour ilÇostomie et colostomie 40mm
+false
+Proxima 2 support de poche pour ilÇostomie et colostomie 50mm
+false
+Proxima 2 support de poche pour ilÇostomie et colostomie 60mm
+false
+Proxima 2 poche ilÇostomie et colostomie vidangeable 40mm
+false
+Proxima 2 poche ilÇostomie et colostomie vidangeable 50mm
+false
+TARGON PFT CLOU 10X220MM 125
+false
+TARGON PFT CLOU 10X220MM 130
+false
+TARGON PFT CLOU 10X220MM 135
+false
+TARGON PFT CLOU 12X220MM 125
+false
+TARGON PFT CLOU 12X220MM 130
+false
+ACCULAN 3TI SCIE OSCILLANTE
+false
+Dagrofil white 3/0 non-resorbable 45cm 3/8 cercle DS24 Bt/36
+false
+Filtre pour contenair PAQ/2PC
+false
+ rÇsorbable 0 1/2 cercle HR37(Bt/36)
+false
+Safil violet 2/0 resorbable 70cm 3/8 cercle DR22 (Bt/36)
+false
+Safil violet 1resorbable 1/2cercle 70 1/2 cercle HS30 (Bt/36)
+false
+Safil violet resorbable 3/0  90cm 1/2 cercle HR30 (Bt/36)
+false
+Monosyn 3/0 resorbable 70cm 1/2 cercle HR26 (Bt/36)
+false
+Monosyn 4/0 resorbable 1/2cercle 70cm  HR17 (Bt/36)
+false
+Monosyn 4/0 resorbable 1/2 cercle 70cm HR26 (Bt/36)
+false
+Monosyn 5/0 resorbable 3/8cercle 70cm DR18 (Bt/36)
+false
+Monosyn 5/0 resorbable 1/2cercle 90cm HR26(Bt/36)
+false
+Monoplus violet 0 resorbable 1/2cercle 90cm HR40 (Bt/36)
+false
+Monoplus violet polydioxanon monofilament resorbable HR26 (Bt/ 36)
+false
+Monoplus violet polydioxanon resorbable1/2cercle 90cm HR37 (Bt/36)
+false
+Monoplus violet polydioxanon monofilament resorbable 2/0 70cm1/2cercle HR37(Bt/ 36)
+false
+Monoplus violet3/0 polydioxanon resoresorbable  1/2 cercle 70cm HR26( Bt/36)
+false
+Monoplus violet 3/0 polydioxanon resorbable1/2 cercle 70cm  HR30 (Bt/36)
+false
+Monoplus violet 4/0 polydioxanon resorbable 1/2 cercle 70cm HR26 (Bt/36)
+false
+Premilene 3/0 polypropropylene  3/8 de cercle 75cm DS39 (Bt/36)
+false
+Dagrofil green 1 polyester non-resorbable  DR32 (Bt/36)
+false
+Premicron green 3/0 Polyester 75cmHS26 (Bt/36)
+false
+Safil violet 2 resorbable1/2cercle 90cm (HS37) (Bt/36)
+false
+Safil quick  3/0 resorbable 70cm 3/8 cercle DS24 (Bt/36)
+false
+Safil quick 4/0 resorbable 3/8 de cercle 70cm DS19 (Bt/36)
+false
+Surgical loop  (SILICONE) 75cm (Bt/24)
+false
+SAFIL© MESH 25X15CM, BOX OF 1
+false
+SAFIL MESH 30 X 30cm (Bt/1)
+false
+Safil Quick resorbable rapide 3/0 3/8 de cercle DS16 70cm (Bt/36)
+true
+SUPPORT D.RANGEMENT MIC LONG
+false
+BLOUNT PINCE D OS GRANDE
+false
+MONITEUR FULL HD LCD 24"
+false
+Premilene 6/0 no
+false
+Endorack fitting for JN445
+false
+1/1 PANIER PERFORE 485X253X76MM
+
+false
+Fraise craniotome P. GB265R/GB268R/GB299
+false
+Premilene 8/0 non-resorbable 75cm 3/8 cercle (2XDRmV6 BLACK) Bt/12 
+false
+Safil violet 4/0 resorbable 3/8 de cercle 70m DS19 (Bt/36)
+false
+Proxima 2 poche ilÇostomie et colostomie vidangeable 60 mm
+false
+Almarys Twin poche pour urostomie 40mm
+true
+Almarys Twin poche pour urostomie 50mm
+true
+Almarys Twin poche pour urostomie 60mm
+
+false
+Omyra Mesh 20x30cm BT/1
+false
+Cuve pour 1/1 Container hauteur:120mm
+false
+Cuve pour 1/1 container hauteur:187mm
+false
+1/1 Panier perfore SS PIED 540 X253 X44mm
+false
+1/1 Panier perfore  SS PIED 540 X253 X64mm
+false
+1/1 Panier perfore SS PIED 540X253X94mm
+false
+3/4 Panier perfore SS PIED 406 X 253X44mm
+false
+3/4 Panier perfore SS PIED 406 X253 X94mm
+false
+Cuve P/Container mini hauteur :57mm
+false
+Pincette a dissequer largeur moyen  160mm
+false
+Cuve pour 1/2 Container hauteur :90mm
+false
+Cuvre P/1/2 Container perfor .hauteur:90mm
+false
+Cuve pour  1/2 Container hauteur:247mm
+false
+Cuvve P/1/2 Container perf.hauteur :247mm
+false
+Sur-couvercle P.CONT.BASE 1/2 ALU rouge
+false
+Cuve pour 1/2 Container hauteur :135mm
+false
+Cuve P/1/2 Container perf. hauteur :135mm
+false
+Cuve pour 1/2 Container hauteur:187mm
+false
+Cuve P/1/2 Container  perf .hauteur :187mm
+false
+Vis spongiosa 6.5x75mm filet 32mm (5/PC)
+true
+Vis spongiosa 6.5x80mm filet 32mm (5/PC)
+true
+Vis spongiosa 6.5x85mm filet 32mm (5/PC)
+true
+Vis spongiosa 6.5x90mm filet 32mm (5/PC)
+true
+Vis spongiosa 6.5x95mm filet 32mm (5/PC)
+true
+Vis spongiosa 6.5x100mm filet 32mm (5/PC)
+true
+Vis spongiosa 6.5x105mm filet 32mm (5/PC)
+true
+Mandrin a 3 mach 4.5mm AV EMB.hudson
+true
+Perforat A main AV mandrin rapid.HUDSON
+true
+Pince D'os schede #0
+true
+Pince D'os schede #1
+true
+Pince D'os schede #2
+true
+Plaq.en T tet 3 trous/tige3 trous L50
+true
+Plaque fragm.pet.5 trous gliss.L62mm 
+false
+Plaque fragm.pet.6 trous gliss.L74mm 
+false
+Plaque appuy. en T 4trous (tige) L80mm
+true
+Plaque appuy. en T 5trous (tige) L96mm
+true
+Plaque appuy. en T 6 trous (tige) L112mm
+true
+Plaque appuy. en L4 trous (tige) GCH.
+true
+Plaque appuy. en L4 trous (tige) DRT.
+true
+Plaque d'os etroite 8 trous gliss L145mm
+true
+Plaque d'os etroite 8 trous gliss L165mm
+true
+Vis malleolaire 4.5x20mm filet part (5/PC)
+true
+Vis malleolaire 4.5x35mm filet part (5/PC)
+true
+Catheter central hemodialyse 20cm
+
+
+false
+Safil violet 5/0 resorbable  70cm 1/2 cercle  HS 15 (Bt/36) 
+false
+Optilene mesh elastic 30X30cm (Bt/5)
+true
+Optilene mesh elastic 15X15cm (Bt/5)
+true
+Premilene 4/0 non-resorbable 75cm ;3/8 de cercle (2xDR18) Bt/36
+true
+"CERTOFIX DUO 720"Catheter central bilumiere adulte  20cm
+true
+Premilene 6/0 non-resorbable 90cm 3/8 de cercle (2xDR13) Bt/36
+false
+Monosyn resorbable, 5/0  70cm 1/2 cercle HR13 Bt/ 36
+false
+Monoplus violet 5/0 70cm 1/2 cercle  HR13 Bt/36
+false
+Monoplus violet 4/0 70cm 1/2 cercle  HR13 Bt/36
+false
+HISTOACRYL© - TISSUE ADHESIVE, 0.5ML, 5 AMPOULES, Bt/ 5
+false
+HISTOACRYL - TISSUE ADHESIVE 0.5ML (Bt/5)
+false
+Safil violetP 4/0 70cm 1/2 cercle HR20(Bt/36) 
+false
+Premilene 3/0 non-resorbable 75cm ;3/8 de cercle (2xDR22) Bt/36
+false
+Micro-line P.A.M Forage P.GB103R GB108R
+false
+Micro-line P.A.M Droite 1:1 p.2.35x95mm 
+false
+Fraise lindemann D2.1mm 14mm 2.35 x 70mm
+false
+Fraise lindemann D2.3mm 15mm 2.35 x 70mm
+false
+Fraise Allport D3.1mm/iso 031 2.35X70mm
+false
+Fraise Allport D3.5mm/iso 035  2.35X70mm
+false
+Fraise Allport D4.0mm/iso 040  2.35 X70mm
+false
+Fraise Allport D4.5mm/iso 045  2.35 X70mm
+false
+Fraise Rosen D1.8mm/iso 018  2.35 X70mm
+false
+Fraise Rosen D2.3mm/iso 023  2.35 X70mm
+false
+Fraise Rosen D1.8mm/iso 018  2.35 X95mm
+false
+Fraise Rosen D2.3mm/iso 023  2.35 X95mm
+false
+Fraise Rosen D2.7mm/iso 027  2.35 X95mm
+false
+Fraise Diamantee D2.7mm/ISO 027 2.35X70mm
+false
+Fraise Diamantee D3.1mm/iso 031 2.35X70mm
+false
+Fraise Diamantee D3.5mm/iso 035 2.35X70mm
+false
+Safil violet 0 rÇsorbable 1/2 cercle 70cm HS30 (Bt/36)
+false
+Premicron green 2/0 (3) 75cm1/2 de cercle  HR26(Bt/36)  
+true
+Premicron green 1  75cm1/2 de cercle  HR26 (Bt/36)
+
+false
+Premicron green 2  75cm 1/2 de cercle HR30 (Bt/36) 
+false
+Premicron green 2/0 (3) 75cm 1/2 de cercle HS26(Bt/36)  
+false
+Premicron green 0 (3.5) 75cm 1/2 de cercle HS26 (Bt/36) 
+false
+Premilmene 2/0 (3) 75cm 3/8 de cercle DS24 (Bt/36) 
+false
+Premilmene 3/0 (2) 75cm 3/8 de cercleDS19 (Bt/36) 
+false
+Premilmene 6/0  75cm 3/8 de cercleDR12 (Bt/36) 
+false
+Premilmene 4/0 (1.5) 75cm 3/8 de cercleDR18 (Bt/36) 
+false
+Premilmene 5/0 (1) 75cm 3/8 de cercle DRC18  (Bt/36) 
+false
+Dafilon black 10/0  15cm 3/8 de cercleDLM6 Bt/12
+false
+Monoplus violet 1 150cm 1/2 cercle HR48  Bt/24
+false
+Premilene 2/0 non-resorbable 75cm ;3/8 de cercle (2xDR26) Bt/36
+true
+Premilene 5/0 non-resorbable 90cm ;3/8 de cercle (2xDR26) Bt/36
+false
+Premicron Green 2/0 non-rÇsorbable polyester silicone 90cm 3/8 cercle (2XDRT26 PL6X3) Bt/36
+false
+Premicron Green 3/0 non-rÇsorbable  75cm1/2 cercle (2XHR22) Bt/36
+true
+Premicron Green 4/0 non-rÇsorbable polyester75cm 1/2 cercle(2XHR22 PL6X3) Bt/36
+true
+Monosyn violet 4/0 1/2cercle 70cm HR22 (Bt/36) 
+false
+Monosyn violet 6/0 1/2cercle 70cm HR17 (Bt/36) 
+false
+Monosyn violet 6/0 1/2cercle 70cm HR13 (Bt/36) 
+false
+Monosyn violet 7/0 1/2cercle 45cm HR13 (Bt/36) 
+false
+SAFIL VIOLET 3 1/2cercle 140cm HR76 (Bt/24) E-SET
+false
+LYOSTYPTGaze hemostatique 5X30CM, Bt/ 4
+false
+ACCULAN 3TI DRILL AND REAMER
+false
+LIVER TRANSPLANT SET
+false
+Bouchons pour tube sec NOIR (unitÇ)
+true
+Sonde de foley pÇdiatrique CH10 (200 unitÇ)
+true
+Sonde de foley adulte homme CH18 (200 unitÇ)
+true
+Sonde de foley adulte homme CH22 (200 unitÇ)
+true
+Sonde de foley adulte femme CH16 (200 unitÇ)
+true
+Sonde de foley adulte femme CH28 (unitÇ)
+true
+Safil Quick 0 rÇsorbable 70cm 1/2 cercle HR37 (Bt/36)
+true
+Premilene 3/0 non-resorbable 90cm 1/2 cercle (2xHRC26) Bt/36
+true
+Premilene 3/0 non-resorbable 75cm 3/8 de cercle (2xDR26) Bt/36
+true
+Premicron white 6/0 (0.7) 45m 2xVLM8 (M) Bt/12
+true
+Surgical loop coton white 4mm 75cm diametre 4mm (Bt/24)
+false
+ACCULAN 3TI CHARGING UNIT
+false
+LUBRICATION OIL
+false
+Sterilit power systems spray de huile
+false
+Omyra mesh, 26 X 36 cm Bt/ 1
+false
+Micro-line foreuse forme pist.rota.D/G
+false
+Cle de serrage P.Mand.3 Mach.GRD.6,5mm
+false
+MANDRIN AO
+false
+MANDRIN TRINKLE
+false
+Micro-line I p.a m.scie Sagittale  S.Lames
+false
+Lame de scie rac.etoile 25/5/0,5/0,5MM
+false
+Lame de scie rac.etoile 25/10/0,5/0,5mm
+false
+Lame de scie rac.etoile 35/5/0,5/0,5mm
+false
+Lame de scie rac.etoile35/10/0,5/0,8mm
+false
+Lame de scie rac. etoile 35/20/0,5/0,8mm
+false
+Lame de scie doubleAME DE SCIE DOUBLE RAC.ETOILE 50/15/6MM
+false
+Lame de scie rac.etoile 50/10/0,5/0,8mm
+false
+Lame de scie rac.etoile 50/20/0,7/0,9mm
+false
+Sterilit power systems huil.cpte-goutes
+false
+Support mobile P.unitees chirurgicaux
+false
+Compresse 2009
+false
+Safil violet 5/0 resorbable 1/2 cercle 70cmA HR13 (Bt/36) 
+false
+Safil violet 4/0 resorbale 1/2 cercle 70cmHR13 (Bt/36) 
+false
+Safil violet 4/0 resorbable 1/2 cercle 70cm HR17 (Bt/36) 
+false
+Safil violet  2 resorbable  250cm fil bobine Bt/12 
+false
+Monomax violet  1 150cm  1/2 cercle,  40mm,HR40S Bt/24 
+true
+Bandage 2009
+false
+Seringue 5cc (unitÇ)/800
+false
+Pen Needles 30G (0.30x8mm) (B/100)
+true
+Premicron green 2/0  75cm DS30 (Bt/36) 
+false
+Safil violet 3/0 resorbable 1/2 cercle 70cm HR26 (Bt/36)
+false
+Sonde EndotrachÇale AB/3.0 ArmÇe ( unitÇ )
+true
+Sonde EndotrachÇale AB/3.5 ArmÇe ( unitÇ )
+true
+Sonde EndotrachÇale AB/4.0 ArmÇe ( unitÇ )
+true
+Sonde EndotrachÇale AB/4.5 ArmÇe ( unitÇ )
+true
+Sonde EndotrachÇale AB/5.0 ArmÇe ( unitÇ )
+true
+Sonde EndotrachÇale AB/5.5 ArmÇe ( unitÇ )
+true
+Sonde EndotrachÇale AB/6.0 ArmÇe ( unitÇ )
+true
+Sonde EndotrachÇale AB/6.5 ArmÇe ( unitÇ )
+true
+Sonde EndotrachÇale AB/7.0 ArmÇe ( unitÇ )
+false
+Sonde EndotrachÇale AB/7.5 ArmÇe ( unitÇ )
+false
+Sonde EndotrachÇale AB/8.5 ArmÇe ( unitÇ )
+true
+Sonde de foley pÇdiatrique CH08 (200 unitÇ)
+true
+Sonde de foley adulte homme CH12 (200 unitÇ)
+false
+Sonde de foley adulte homme CH14 (200 unitÇ)
+true
+Sonde de foley adulte homme CH16 (200 unitÇ)
+true
+Sonde de foley adulte femme CH14 (200 unitÇ)
+true
+Sonde de foley adulte femme CH18 (200 unitÇ)
+true
+Surgical loop silicone non-resorbable RED 8mm Bt/24
+false
+Surgical Loop Lac en silicone  bleu  75cm Bt/24
+false
+Catheter centrale simple lumiäre seldinger 20cm G14 (unite)
+true
+Catheter centrale simple lumiäre seldinger 20cm G16 (unite)
+true
+Catheter centrale simple lumiäre seldinger 15cm G18 (unite)
+true
+Catheter centrale simple lumiäre seldinger 15cm G14 (unite)
+true
+Catheter centrale simple lumiäre seldinger 15cm G16 (unite)
+true
+Catheter centrale double lumiäre seldinger 20cm G16 (unite)
+true
+Catheter centrale double lumiäre seldinger 15cm G16 (unite)
+true
+Catheter centrale triple lumiäre seldinger 20cm G14 (unite)
+true
+Catheter centrale triple lumiäre seldinger 15cm G16 (unite)
+true
+Catheter centrale triple lumiäre seldinger 15cm G14 (unite)
+true
+Catheter centrale triple lumiäre seldinger 8cm G20 (unite)
+false
+Aiguille spinale,biseau quincke avec introducteur G27 (0.40x88)
+true
+Aiguille spinale,pointe de crayon avec introducteur G27 (0.40x88) 
+true
+Aiguille spinale,biseau quincke G24 (0.55x88) 
+true
+Aiguille spinale,pointe de crayon G24 (0.55x88) 
+true
+Premicron green 2/0 non-rÇsorbable  75cm 3/8 cercle  (2XDRT18) Bt/36 
+false
+Premicron green 3/0 non-resorbable 75cm 3/8de cercle (2XDRT18) Bt/36 
+false
+Premilene non-resorbable 4/0  90cm 3/8 de cercle (2XDR22) Bt/36 
+false
+Steelex sternum set 7 non-resorbable 4X45cm 1/2 de cercle(HRS48) Bt/12 
+false
+Safil Quick 4/0 THREAD 70cm; 3/8 cercle  DS24 (Bt/36) 
+false
+Bras flexibles L150mm
+false
+Attache riechert P.spatules plates
+false
+Attache P.spatules rondes jusqu'a D:5
+false
+Manche bistouri forme baion.NO.3 210mm
+false
+Speculum nasal hardy-cushing 90X15mm
+false
+Speculum nasal cottle articul.demontable
+false
+Curette a hypophysec.hardy D:4/260mm
+false
+Curette P.hypophyse nicola flex.260mm
+false
+Enucleateur P.hypoph.hardy MO/DRT 245mm
+false
+Enucleateur P.hypoph. hardy MO/DRT 245mm
+false
+Rongeur S.caspar 2mm TIGE 155mm en haut
+false
+Kerrison demont.130 en HT 200mm 3mm
+false
+Rongeur S.caspar 2mm TIGE 185mm DRT
+
+
+false
+Rongeur S.caspar 4mm TIGE 185mm DRT
+false
+Rongeur S.casparCASPAR 4mm tige 185mm courbe
+false
+Curette S.caspar 4mm dentee  220mm
+false
+Pince P.changer lames verr.rap.a.billes
+false
+Crochet racine nerf S.love baion.210mm
+false
+Crochet a nerfs cushing 90 4mm 190mm
+false
+Guide de forage P.VIS de distract. gauche
+false
+Caspar retracteur lombaire CPL.
+false
+Ciseaux fin P.nerfs et a diss.CRB.140mm
+false
+Ciseaux ragnell fin  CRB.135mm
+false
+EcartCART.DE CORPS VERTEBR.S.CLOWARD 135MM
+false
+Kerrison dem.130 en HT 230mm 4mm FINE
+false
+Silkam black non-resorbable  2/0  75cm 1/2 cercle HS30 (Bt/36) 
+false
+Silkam black non-resorbable  3/0 75cm 1/2 cercle   HS23  Bt/36 
+false
+Silkam blacknon-resorbable  0  75cm 3/8 cercle  (DS35): Bt/36 
+false
+Silkam black non-resorbable 1 75cm  3/8 cercle  (DS35) Bt/36 
+false
+Dafilon blue 0 polyamide monofilament  90cm  (GS51): Bt/36 
+false
+Silkam black 2/0 non-resorbable 75cm 1/2 cercle, HS21 (Bt/36) 
+false
+Silkam black non-resorbable 2/0 75cm 3/8 cercle DS16 (Bt/36) 
+false
+Bande adhesive Çlastique 
+false
+Safil violet 0 resorbable 70cm 1/2 cercle HR40 Bt/36 
+false
+Safil violet  2/0  70cm1/2 cercle,HR40S Bt/36 
+false
+Silkam black 2/0 non-resorbable  75cm 3/8cercle DS30 Bt/36 
+false
+Silkam black 4/0 non-resorbable 75cm  3/8 cercle DS16 Bt/36 
+false
+Premicron green 2/0 non-resorbable 1/2 cercle 2XHR17 Bt/6
+false
+Safil violet  2/0  70cm 1/2 cercle HR17: Bt/36 
+false
+Premilene 8/0 non-resorbable 75cm 3/8 cercle (2XDRmV6 BLACK)BT/36
+
+false
+Pince Hemostatique Halsted DRT.125mm (piäce)
+false
+Pince Mosquito Halsted 1x2G.DRT.125mm (piäce)
+false
+Pince Hemostatique Kelly DRT.140mm (piäce)
+false
+Pince Hemostatique Kelly CRB.140mm (piäce)
+false
+Pincette Adson Fin Striee 150mm (piäce)
+false
+Pincette a Disseq.Adson Fin 1x2G.120mm (piäce)
+false
+Pincette a Disseq.Adson 1x2G.180mm (piäce)
+false
+Ciseaux mayo CRB.sur le plat 140mm (piäce)
+false
+Durogrip Porte-Aigu.Ryder 147mm (piäce)
+false
+Coupe D.Laboratoire 0.02 LTR
+false
+Coupe D.Laboratoire 0.063 LTR
+false
+Ciseaux a Iridectomie et Ligatures 115mm
+false
+Ecarteur Langenbeck 28x14mm 210mm
+false
+Canule D.Asp.Fergus.D:3.0mm LG.UT.200mm
+false
+Tube a Aspirat.AV.Interrupt.25cm D3mm
+false
+Ostetome Lambotte 125mm 8mm
+false
+Marteau Cottle
+false
+Pince-Coupante Liston DRT.200mm
+false
+Rugine Freer 190mm
+false
+Osteotome D.Obwegeser COB.11/235mm
+false
+Rugine P.Palais CRB.A Gauche
+false
+Rugine P.Palais CRB.A DRT
+false
+Rugine Obwegeser
+false
+Steelex electrode set non-resorbable  3/0  60cm  1/2 cercle  17mm Bt/36
+true
+Ecarteur de ricard
+false
+ACCULAN 3TI FOREUSE/FRAISEUSE
+false
+ACCULAN 3TI EMBOUT DE FORAGE AO-PETITE
+false
+ACCULAN 3TI EMB.FORAGE MAND.3 MACH.GRD.
+false
+ACCULAN 3TI ACCUMULATEUR NIMH
+false
+ECCOS SUPPORT P.ACCULAN 3TI MACHINES
+false
+ECCOS SUPPORT P.3 ACCULAN 3TI EMBOUTS
+false
+ECCOS FIXATION P.GA675
+false
+ECCOS FIXATION P.GA678
+false
+ECCOS FIXATION P.PIECES PET.AV.D5,0MM
+false
+1/1 PANIER PERFORE 485X253X106MM
+false
+CHUCK FOR K-WIRES
+false
+ACCULAN 3TI MANDRIN DE BROCHAGE UNIV.
+false
+ECCOS SUPPORT P.1 ACCULAN 3TI EMBOUT
+
+false
+HARRIS CHUCK
+false
+ACCULAN 3TI EMBOUT DE FRAISAGE HARRIS
+false
+ACCULAN 3TI EMBOUT DE FRAISAGE HARRIS
+
+false
+AO BIG CHUCK
+
+false
+ACCULAN 3TI EMBOUT DE FRAISAGE AO-GRANDE
+false
+ACCULAN 3TI SAGITAL SAW
+false
+ECCOS FIXATION P.LAMES DE SCIE GRANDES
+false
+Moteurs pour la chirurgie orthopÇdique avec accessoires 
+false
+BROSSE DE NETTOYAGE 200x30x4.5
+false
+PRIMELINE 1/1 COUVERCLE ROUGE
+false
+ECCOS SET P.ACCULAN 3TI MOTEURS/ACCESS
+false
+Easypump ALR debit continu 5 ML/H  (B/10)
+false
+"Medifix" Ness.pour mesure de la CVP  
+true
+"Medifix" Reglette pour  Mesure de la PVC
+true
+Plaque d'Çventration no rÇsorbable 30x50cm
+false
+Safil violet 6/0 resorbable- 45cm 3/8 cercle,  DS12 Bt/36 
+false
+Safil violet4/0 resorbable  70cm 3/8 cercle  DS24  Bt/36 
+false
+Set contiplex 50mm G18
+true
+Easypump ALR debit continu 5ML/H BT/10
+false
+Easypump ALR debit continu 8ML/H BT/10
+true
+"Plexufix" Aiguille G24x1 (0.55x25mm)
+true
+"Plexufix" Aiguille G24x2 (0.55x50mm)
+true
+Set contiplex 100mm G18
+true
+Aiguille stimuplex duo 35mm G25
+false
+Aiguille stimuplex duo 40mm G23
+false
+Aiguille stimuplex duo 70mm G23
+false
+Aiguille stimuplex duo 55mm G25
+false
+Drain de redon d'aspiration 50cm CH8
+false
+Drain de redon d'aspiration 50cm CH10
+false
+Drain de redon d'aspiration 50cm CH12
+false
+Drain de redon d'aspiration 50cm CH14
+false
+Drain de redon d'aspiration 50cm CH16
+false
+Drain de redon d'aspiration 50cm CH18
+false
+"CYSTOFIX" Necess.Tur pour drainage/lavage CH15,12cm
+true
+Redovac 400 Appareil de Redon
+true
+Pen Needles 30G (0.30x6mm) (B/100)
+true
+Pen Needles 30G (0.30x12mm) (B/100)
+true
+Aiguille de prÇlevement pour tube sous-vide 21Gx1 1/2 (0.80x38mm)
+true
+Aiguille de prÇlevement pour tube sous-vide 22Gx1 1/2 (0.70x38mm)
+true
+Speculum vaginal breisky 130x20mm
+false
+Speculum vaginal breisky 130x30mm
+false
+Speculum vaginal breisky 130x40mm
+false
+Pince peritoine faure 205mm
+false
+Durogrip porte-aig.hegar-mayo-seeley205
+false
+Aiguille spinale,biseau quincke avec introducteur G25 (0.50x88)
+true
+Aiguille Spinale,pointe de crayon avec introducteur G25 (0.50x88)
+true
+Aiguille spinale,biseau quincke G20 (0.9x90)
+true
+Aiguille spinale,biseau quincke G22 (0.7x90)
+true
+Aiguille spinale,biseau quincke G25 (0.53x88)
+false
+Aiguille spinale,pointe de crayon G20 (0.9x88)
+true
+Aiguille spinale,pointe de crayon G22 (0.7x88)
+true
+Aiguille spinale,pointe de crayon G25 (0.53x88)
+true
+Prolongateur (1.45x2.75mm) 100cm
+true
+Prolongateur (1.45x2.75mm) 150cm
+true
+Tube de prÇlevement vacutainer + K2EDTA (unitÇ)
+true
+Tube de prÇlevement vacutainer + K3EDTA (unitÇ)
+false
+Tube de prÇlevement vacutainer + Sodium citrate 9NC (unitÇ)
+true
+Tube de prÇlevement vacutainer + Sodium Heparine (unitÇ)
+true
+Tube de prÇlevement vacutainer + Lithium Heparine (unitÇ)
+true
+Tube de prÇlevement vacutainer + Gel Separateur (unitÇ)
+true
+Adaptateur Aiguille pour tube vacutainer (unitÇ)
+true
+Tube de prÇlevement vacutainer vide (unitÇ)
+true
+Lunette Ö oxygene pÇdiatrique 210cm stÇrile (unitÇ)
+true
+Lunette Ö oxygene adulte 210cm stÇrile (unitÇ)
+true
+Masque Ö oxygene pÇdiatrique 213cm stÇrile (unitÇ)
+true
+Masque Ö oxygene adulte 213cm stÇrile (unitÇ)
+true
+Flacon de Redon 400ml (unitÇ)
+true
+Premicron green polyester non-resorbable 0  75cm 3/8 cercle DS30 Bt/36 
+true
+Premicron green 3/0 polyester non-resorbable 75cm 1/2 cercle  HR26  Bt/36 
+true
+Premicron green 1 polyester non-resorbable 75cm 3/8 cercle DS30: Bt/36 
+false
+Premicron green 0 non-resorbable 75cm 1/2 cercle HS30  Bt/36 
+false
+Silkam black  0  75 cm 1/2 cercle  HS26  Bt/36 
+false
+Silkam black  3/0   75cm 1/2 cercle HS26 Bt/36 
+false
+Silkam black  2/0 non-resorbable 75cm 1/2 cercle  HS26  Bt/36 
+false
+Microspeed 100 moteur P.micro-line P.A M
+false
+Microspeed EC cable mot . P comm.A pied
+false
+Micro-line p.a.ang.1:2 p.2.35x70mm
+false
+Micro-line p.a.ang.1:1 p.2.35x70mm
+false
+Porte-lumiere P.laryngoscopes
+false
+Micro-pince P.Larynx DRT. fenetree
+false
+Pince mosquito halsted CRB.1X2G.125mm
+false
+Ciseaux mayo-stille CRB.170mm
+false
+SILKAM BLACK 3/0  75cm DR18
+false
+Premicron green 2/0  75cm HR30 (Bt/36) 
+false
+Silkam black 2/0 75cm HR26 (Bt/36)
+false
+Silkam Black 3/0 (2) 75cm HS21 Bt/36
+false
+Sonde de foley adulte femme CH12 (200 unitÇ)
+true
+Sonde de foley adulte homme CH20 (200 unitÇ)
+true
+Safil violet 2/0 90cm HS40 (Bt/36)
+false
+SOIE NOIRE TRESSE 2/0 CT 30MM
+false
+BOITE DE CHIRURGIE DE LA CLOISON NASAL
+false
+BOITE DE L'AMYGDALECTOMIE ADULTE
+false
+BOITE DE CHIRURGIE DU LARYNX
+false
+BOITE DE SURDITE
+false
+BOITE DE MASTOIDECTOMIE
+false
+Premilene 6/0 non-resorbable 75cm 3/8 cercle (2xDR13) Bt/36
+false
+Gaze HÇmostatique et rÇsorbable 10x20 (Bt/12)
+false
+Aiguille spinale,biseau quincke G27 (0.40x88)
+true
+Aiguille spinale,biseau quincke G26 (0.45x88)
+false
+Vis malleolaire 4.5x30mm filet part. (5/PC)
+false
+Clamp vasc de'bakey mors 38mm 220mm
+true
+SONDE BOUTONNEE EN ETAIN D:3,5/300MM
+false
+Pince Pose Clip Small 280mm 65¯
+false
+Clip Ligature Petit 30 Magas 
+false
+Pince Pose Clip Medium 280mm 25¯
+false
+Pince Pose Clip Medium 280mm 65¯
+false
+Clip Ligature Med. 30 Magas
+false
+Pince Pose Clip Med/Large
+false
+Pince Pose Clip Med/Large 280mm 65¯
+false
+Clip Ligature Med. Large 20 Magas
+false
+Clip Ligature Large 20 Magas
+false
+Ecarteur Abdominal Ricard CPL
+false
+Ecarteur Abdominal Ricard CPL
+false
+Ecarteur Seul P.Ecart. Abdomin.BV542/543
+false
+Valves Laterales Paire 48x59mm
+false
+Valves Laterales Paire 58x80mm
+false
+Valves Laterales Paire 72x84mm
+false
+Pince a Prehens.D.Allis P. Poumon 220mm
+true
+Surgical loop coton white 4mm 2x38cm ADCE (Bt/24)
+false
+Surgical loop silicone jaune 2.5mm 2x45cm ADCE (Bt/24)
+false
+Surgical loop silicone rouge 2.5mm 75cm ADCE (Bt/24)
+false
+Premicron green 2/0 (3) 90 2xDRT18 (M)PF6 DDP (Bt/36)
+true
+Premilene 8/0 (0.4) 60cm 2xDRC10 CV RCP (Bt/36)
+false
+PORTE-LUMIERE P.LARYNGOSCOPES
+false
+Novosyn Violet 4/0 (1.5) 70cm HR22 (Bt/36)
+false
+Novosyn Violet 3/0 (2) 70cm HR26 (Bt/36)
+false
+Novosyn Violet 2/0 (3) 70cm HR30 (Bt/36)
+true
+Novosyn Violet 0 (3.5) 70cm HR37 (Bt/36)
+true
+MICROSPEED UNI MICRO 150 MOTEUR
+false
+MICROSPEED UNI CABLE MOT.P.COMM.A PIED
+false
+Microspeed uni HI 150 Moteur
+false
+Micro-line P.A.M.ANG.1:2 P.2,35X125mm
+false
+Couche BÇbÇ 2äme age
+false
+Couche BÇbÇ 1äre age
+false
+Bero HIV Cassettes
+true
+Bero HIV 1/2- HIV Bandelettes
+true
+Bero Hep HBsAg hepatitis B virus surface antigene Bandelettes
+true
+Bero Hep HCV- Hepatitis C virus- Bandelettes
+true
+Bero Syphilis- treponema Bandelettes
+true
+Test de grossesse (HCG)Bandelettes
+true
+Kerrison
+false
+Kerrison
+false
+Caspar rongeur
+false
+Caspar rongeur
+false
+Caspar rongeur
+false
+Caspar rongeur
+false
+Pince intest. allis 5 x 6 griffes 155mm
+false
+Anuscope Longeur D.vvalve 117 mm
+false
+Speculum nasal killian 140mm
+false
+Sparadrap perforÇ 5mx10cm (RLX)
+false
+Sonde de foley adulte femme CH 20 (200 unitÇ)
+true
+Bande PlatrÇe 3mx10cm (unitÇ)
+false
+Bande PlatrÇe 3mx15cm (unitÇ)
+false
+Bande PlatrÇe 3mx20cm (unitÇ)
+false
+Compresse stÇrile occulaire avec adhÇsif
+false
+Robinet 3 voies (1000 unitÇs)
+false
+Tube  jersy
+false
+Elastoplast 2.5mx10cm (unitÇ)
+false
+Elastoplast 2.5mx15cm (unitÇ)
+false
+**************************************
+
+test mysql
+{"idproduit"=>4989, "Designation"=>"Test", "Disponibilite"=>1, "Seuil"=>1}
+{"idproduit"=>4989, "Designation"=>"Test", "Disponibilite"=>0, "Seuil"=>1}
+Test
+0
+Abaisse langue (B/100)
+1
+Gant d'examen taille " L " ( B/100 )
+1
+Gant d'examen taille " M " ( B/100 )
+1
+Gant d'examen taille " S " ( B/100 ) 
+1
+Gant de chirurgie N¬∞6.5 ( paire )
+1
+Gant de chirurgie N¬∞7.0 ( paire )
+1
+Gant de chirurgie N¬∞7.5 ( paire )
+1
+Gant de chirurgie N¬∞8.5 ( paire )
+1
+Lame de bistouri N¬∞10 ( Bte de 100 )
+1
+Lame de bistouri N¬∞11 ( Bte de 100 )
+1
+Lame de bistouri N¬∞15 ( Bte de 100 )
+1
+Lame de bistouri N¬∞20 ( Bte de 100 )
+1
+Lame de bistouri N¬∞21 ( Bte de 100 )
+1
+Catheter court avec site d'injection G14 (ut)
+1
+Catheter court avec site d'injection G20 (ut)
+1
+Catheter court avec site d'injection G22 (ut)
+1
+Sonde de foley adulte homme CH20 ( unit√© )
+1
+Sonde de foley adulte homme CH22 ( unit√© )
+1
+Sonde de foley adulte femme CH22 ( unit√© )
+1
+Seringue 01cc √† insuline  (unit√©)
+1
+Sonde d'alimentation CH06 ( unit√© )
+1
+Sonde d'alimentation CH10 ( unit√© )
+1
+Sonde d'aspiration CH06 ( unit√© )
+1
+Sonde d'aspiration CH10 ( unit√© )
+1
+Aiguille hypodermique G21 (ut)
+1
+Aiguille hypodermique G23 (ut)
+1
+Aiguille hypodermique G25 (ut)
+1
+Seringue 50cc ( unit√© )
+1
+Sonde gastrique CH12 ( unit√© )
+1
+Sonde gastrique CH14 ( unit√© )
+1
+Sonde gastrique CH16 ( unit√© )
+1
+Sonde gastrique CH18 ( unit√© )
+1
+Sonde gastrique CH20 ( unit√© )
+1
+Sonde d'aspiration CH12 ( unit√© )
+1
+Sonde d'aspiration CH14 ( unit√© )
+1
+Sonde d'aspiration CH16 ( unit√© )
+1
+Sonde d'aspiration CH18 ( unit√© )
+1
+Poche √† urine en T ( unit√© )
+1
+Embout bleu ( Sachet de 1000 ) 
+1
+Sonde rectale CH12 ( unit√© )
+1
+Sonde rectale CH14 ( unit√© )
+1
+Sonde rectale CH16 ( unit√© )
+1
+Sonde rectale CH18 ( unit√© )
+1
+Sonde rectale CH20 ( unit√© )
+1
+Sonde rectale CH22 ( unit√© )
+1
+Sonde rectale CH24 ( unit√© )
+1
+Sonde rectale CH26 ( unit√© )
+1
+Sonde rectale CH28 ( unit√© )
+1
+Sonde rectale CH32 ( unit√© )
+1
+Sonde rectale CH34 ( unit√© )
+1
+Sonde rectale CH36 ( unit√© ) 
+1
+Sonde endotrach√©ale SB/3.0mm ( unit√© )
+1
+Sonde endotrach√©ale SB/3.5mm ( unit√© )
+1
+Sonde endotrach√©ale SB/4.0mm ( unit√© )
+1
+Sonde endotrach√©ale SB/4.5mm ( unit√© )
+1
+Sonde endotrach√©ale SB/5.0mm ( unit√© )
+1
+Sonde endotrach√©ale AB/5.5mm ( unit√© )
+1
+Sonde endotrach√©ale AB/6.5mm ( unit√© )
+1
+Sonde endotrach√©ale AB/7.0mm ( unit√© )
+1
+Sonde endotrach√©ale AB/7.5mm ( unit√© )
+1
+Peni-flow M 25mm ( unit√© )
+1
+Peni flow L 30mm ( unit√© )
+1
+Sonde nelaton Homme CH06 ( unit√© )
+1
+Sonde nelaton Homme CH08 ( unit√© )
+1
+Sonde nelaton Homme CH10 ( unit√© )
+1
+Sonde nelaton Homme CH14 ( unit√© )
+1
+Sonde nelaton Homme CH16 ( unit√© )
+1
+Sonde nelaton Femme CH06 ( unit√© )
+1
+Sonde nelaton Femme CH08 ( unit√© )
+1
+Sonde nelaton Femme CH10 ( unit√© )
+1
+Sonde nelaton Femme CH12 ( unit√© )
+1
+Sonde nelaton Femme CH14 ( unit√© )
+1
+Thermometre clinique ( unit√© )
+1
+Thermometre digital waterproof ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH12 ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH14 ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH16 ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH18 ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH20 ( unit√© )
+1
+Bande platr√©e 10cmx3m ( unit√© )
+1
+Bande platr√©e 20cmx3m ( unit√© )
+1
+Pot √† Crachat noir (unit√©)
+1
+Aiguille hypodermique G27 (ut)
+1
+Bracelet d'identification p√©diatrique rose (ut)
+1
+Bouchons pour Tube √† Hemolyse ( unit√© )
+1
+Lamelle couvre objet 20x20mm ( Boite de 1000 )
+1
+Compresse Purifi√©e 17 fils 12 plis 5x5cm (Bte/10)
+1
+Compresse Purifi√©e 17 fils 12 plis 7.5x7.5cm (Bte/10)
+1
+Compresse Purifi√©e 17 fils 12 plis 10x10cm (Bte/10)
+1
+Compresse St√©rile  17 fils 12 plis 5x5cm (Bte/10)
+1
+Compresse St√©rile 17 fils 12 plis 7.5x7.5cm (Bte/10)
+1
+Compresse St√©rile 17 fils 12 plis 10x10cm (Bte/10) 
+1
+Compresse St√©rile 17 fils 12 plis 10x10cm (Bte/100)
+1
+Compresse St√©rile 17 fils 12 plis 5x5cm (Bte/100)
+1
+Bande de Gaze 4mx10cm (ut)
+1
+Seringue 20cc ( unit√© )
+1
+Seringue 2.5cc ( unit√© ) G25
+1
+Aiguille hypodermique G19 (ut)
+1
+Lamelle couvre objet 24x24mm ( Boite de 1000 )
+1
+Lamelle couvre objet 18x18mm ( Boite de 1000 )
+1
+Compresse Purifi√©e 10x10 Au Fil de Baryum 12 Plis ( B/100 )
+1
+Bande de Gaze 4mx5cm (ut)
+1
+Bande de Gaze 4mx7cm (ut)
+1
+Bande de Gaze 4mx15cm (ut)
+1
+Bande de Cr√™pe 4mx7cm (ut)
+1
+Bande de Cr√™pe 4mx5cm (ut)
+1
+Sonde Endotrach√©ale AB/3.0mm ( unit√© )
+1
+Sonde Endotrach√©ale AB/3.5mm ( unit√© )
+1
+Sonde Endotrach√©ale AB/4.0mm ( unit√© )
+1
+Sonde Endotrach√©ale AB/4.5mm ( unit√© )
+1
+Sonde Endotrach√©ale AB/5.0mm ( unit√© )
+1
+Lame de bistouri N¬∞12 ( Bte de 100 )
+1
+Lamelle couvre objet 22x22mm ( Boite de 1000 )
+1
+Plaque d'os large 10 trous gliss L 167mm
+
+1
+Plaque d'os large 12 trous gliss L 199mm
+
+1
+Plaque d'os large 14 trous gliss L231mm
+
+1
+Plaque d'os large 16 trous gliss L 263mm
+1
+Plaque d'os large 18 trous gliss L 295mm
+1
+Vis spongiosa 6.5x75mm filet 16mm (5/PC)
+1
+Vis spongiosa 6.5x80mm filet 16mm (5/PC)
+
+1
+Vis spongiosa 6.5x85mm filet 16mm (5/PC)
+
+1
+Vis spongiosa 6.5x90mm filet 16mm (5/PC)
+1
+Vis spongiosa 6.5x95mm filet 16mm (5/PC)
+
+1
+Vis spongiosa 6.5x100mm filet 16mm (5/PC)
+1
+Vis spongiosa 6.5x110mm filet 16mm (5/PC)
+
+1
+Vis corticale 4.5x28mm filet complet (5/PC)
+
+1
+Vis corticale 4.5x30mm filet complet
+
+1
+Vis corticale 4.5x32mm filet complet
+
+1
+Vis corticale 4.5x34mm filet complet
+
+1
+Vis corticale 4.5x36mm filet complet
+
+1
+Vis corticale 4.5x38mm filet complet
+
+1
+Vis corticale 4.5x40mm filet complet (5/PC)
+
+1
+Vis  Corticale 4.5x42mm Filet Complet (5/PC)
+1
+Vis corticale 4.5x44mm filet complet (5/PC)
+
+1
+Vis corticale 4.5x46mm filet complet (5/PC)
+1
+Vis corticale 4.5x50mm filet complet (5/PC)
+
+1
+Vis corticale  3.5 x 14mm (5/PC)
+
+1
+Vis corticale  3.5 x 18mm (5/PC)
+
+1
+Vis corticale  3.5 x 20mm (5/PC)
+
+1
+Plaque d'os etroite 6 trous gliss L103mm
+1
+Plaque d'os etroite 8 trous gliss L135mm
+1
+Plaque d'os etroite 10 trous gliss L167mm
+1
+Support de poche de colostomie 15-35 (40mm)
+1
+Almarys Twin support de poche urostomie 50mm
+1
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 40mm
+1
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 50mm
+ 
+1
+Ecarteur vesical milin
+1
+Safil violet 1 r√©sorbable 70cm1/2 cercle HR37(Bt/36)
+
+
+
+
+1
+CERVIX SET DIAMETER 0.5cm  50cm 1/2 cercle  (2XHRN45) Bt/ 6
+1
+Cervix Set(filde cerclage) 50cm 2xHRN65 (Bt/12)
+1
+Epist S.Q.U 2/0 70DS 24.0 90HRT43 (M)DDP (Boite/36)
+1
+Histoacryl blue 0.5 ml (Bt/10)
+1
+Dafilon blue 3/0 non-resorbable 75cm 3/8 cercle (DS30) Bt/36 
+1
+Safil violet 2 resorbable 70cm HR37 (Bt/36)
+1
+Ureas Tape Implant Loop Connector shipping (Bt/1)
+1
+Ureas top 2needles transobturator procedure pair
+1
+Ureas top needle transobturator procedure
+1
+Ureas needle abdominal procedure
+1
+Ureas Vneedle retrobubic procedure pair
+1
+Ureas handle for V needles
+1
+STEELEX STE SET 6 4X45CM HRS48 LPCE (Bt/12)
+1
+Safil violet 5/0 resorbable 45cm1/4 cercle (2XVLM08) (Bt/12)
+1
+Premilene blue 4/0 non-resorbable 45cm 3/8 cercle DS12 (Bt/36)
+
+1
+STEELEX ELECTRODE 3/0 60cm HR17 (Bt/36) 
+1
+Premilene mesh - hernia repair, 30x30cm (Bt/ 5)
+1
+Vis corticale 4.5x24mm Filet complet (5/PC)
+1
+Vis corticale 4.5x26mm filet complet (5/PC)
+1
+Vis Corticale 3.5 x22mm (5/PC)
+1
+Boite de p√©tri simple compartiment (unit√©)
+1
+Ecarteur abdomin.et hepatiq.D.milkulicz
+1
+Rugine doyen P.adultes
+1
+Filtre permanent P.Container PAQ/10pc
+1
+3/4-Couvercle perfor.Hauteur:90mm
+1
+Dafilon blue 2/0 non-resorbable 75cm 3/8 cercle (DS30) Bt/36 
+1
+Safil violet 6/0 resorbable 70cm 1/2 cercle HR13(Bt/36)
+1
+Premilene mesh-hernia repair, 26cmx36cm (Bt/5)
+1
+Premilene 7/0 60cm 2xDRMV10
+1
+STEELEX Electrode set 2/0 60cm HR26
+1
+Almarys Twin support de poche urostomie 40mm
+1
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 60mm
+1
+AT+ ILEO BEIGE AVEC FILTRE (poche d'ileostomie) 80mm
+1
+FLEXIMA URO TRANSP 12-55 (poche d'urostomie)
+1
+"CERTOFIX TRIO 715"Catheter central trilumiere adulte  15cm
+1
+"CERTOFIX TRIO 720"Catheter central trilumiere adulte  20cm
+1
+"NEPHROFIX " Set de nephrostomie percutanee CH08
+1
+Guide d'introduction G 20 x 1 3/8"
+
+
+1
+Guide d'introduction G 22 x 1 3/8"
+1
+"PENCAN"  Aiguille spinale pointe de crayon G25 (0.53 x50mm)
+1
+"PENCAN "Aiguille spinale pointe de crayon G27 (0.42 x50mm)
+1
+Premicron Green 1 non-absorbable  75cm1/2cercle HR30  (Bt/36) 
+1
+CERVIX SET (fil de cerclage) 50cm 1/2 Cercle (2XHRT48) (Bt/12)
+
+1
+Premilene 2/0 non-r√©sorbable 75cm  1/2 cercle (HR26) Bt/36 
+1
+"PENCAN" Aiguille spinale pointe de crayon G25 (0.51 x88mm)
+
+1
+PENCAN +INTR Aiguille spinale pointe de crayon avec introducteur G25 (0.53 x88mm)
+ 
+
+
+1
+"PENCAN Aiguille spinale pointe de crayon avec introducteurG25 (0.53x103mm)
+1
+ PENCAN +INTR Aiguille spinale pointe de crayon avec introducteur G27(0.42 x88mm)
+
+1
+ ESPOCAN Set peri/rachi combine espocan + spinocan G27
+
+
+1
+STIMUPLEX A 25mm Aiguille de neurostimulation L 25mm
+
+1
+"Proxima" poche adh√©sive vidangeable beige 10 - 70 mm (B/30)
+1
+"CERTOFIX DUO HF V1215
+"catheter jugulaire double lumiere d'hemodialyse 15cm
+1
+Safil violet usp 0 resorbable, (metric 3,5) 250cm(no needle) Bt/12 
+
+1
+CERTOFIX DUO 715"Catheter central bilumiere adulte  15cm
+1
+Premilene usp 5/0 non-r√©sorbable 90cm ;3/8 cercle  (2xDR18) Bt/36
+1
+Premilene 7/0 non-resorbable 75cm 3/8 cercle (2XDR10) Bt/36
+1
+Compresse occulaire B/100
+1
+Safil Quick resorbable rapide 3/0 3/8 de cercle DS16 70cm (Bt/36)
+1
+Almarys Twin poche pour urostomie 40mm
+1
+Almarys Twin poche pour urostomie 50mm
+1
+Vis spongiosa 6.5x75mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x80mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x85mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x90mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x95mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x100mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x105mm filet 32mm (5/PC)
+1
+Mandrin a 3 mach 4.5mm AV EMB.hudson
+1
+Perforat A main AV mandrin rapid.HUDSON
+1
+Pince D'os schede #0
+1
+Pince D'os schede #1
+1
+Pince D'os schede #2
+1
+Plaq.en T tet 3 trous/tige3 trous L50
+1
+Plaque appuy. en T 4trous (tige) L80mm
+1
+Plaque appuy. en T 5trous (tige) L96mm
+1
+Plaque appuy. en T 6 trous (tige) L112mm
+1
+Plaque appuy. en L4 trous (tige) GCH.
+1
+Plaque appuy. en L4 trous (tige) DRT.
+1
+Plaque d'os etroite 8 trous gliss L145mm
+1
+Plaque d'os etroite 8 trous gliss L165mm
+1
+Vis malleolaire 4.5x20mm filet part (5/PC)
+1
+Vis malleolaire 4.5x35mm filet part (5/PC)
+1
+Optilene mesh elastic 30X30cm (Bt/5)
+1
+Optilene mesh elastic 15X15cm (Bt/5)
+1
+Premilene 4/0 non-resorbable 75cm ;3/8 de cercle (2xDR18) Bt/36
+1
+"CERTOFIX DUO 720"Catheter central bilumiere adulte  20cm
+1
+Premicron green 2/0 (3) 75cm1/2 de cercle  HR26(Bt/36)  
+1
+Premilene 2/0 non-resorbable 75cm ;3/8 de cercle (2xDR26) Bt/36
+1
+Premicron Green 3/0 non-r√©sorbable  75cm1/2 cercle (2XHR22) Bt/36
+1
+Premicron Green 4/0 non-r√©sorbable polyester75cm 1/2 cercle(2XHR22 PL6X3) Bt/36
+1
+Bouchons pour tube sec NOIR (unit√©)
+1
+Sonde de foley p√©diatrique CH10 (200 unit√©)
+1
+Sonde de foley adulte homme CH18 (200 unit√©)
+1
+Sonde de foley adulte homme CH22 (200 unit√©)
+1
+Sonde de foley adulte femme CH16 (200 unit√©)
+1
+Sonde de foley adulte femme CH28 (unit√©)
+1
+Safil Quick 0 r√©sorbable 70cm 1/2 cercle HR37 (Bt/36)
+1
+Premilene 3/0 non-resorbable 90cm 1/2 cercle (2xHRC26) Bt/36
+1
+Premilene 3/0 non-resorbable 75cm 3/8 de cercle (2xDR26) Bt/36
+1
+Premicron white 6/0 (0.7) 45m 2xVLM8 (M) Bt/12
+1
+Monomax violet  1 150cm  1/2 cercle,  40mm,HR40S Bt/24 
+1
+Pen Needles 30G (0.30x8mm) (B/100)
+1
+Sonde Endotrach√©ale AB/3.0 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/3.5 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/4.0 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/4.5 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/5.0 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/5.5 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/6.0 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/6.5 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/8.5 Arm√©e ( unit√© )
+1
+Sonde de foley p√©diatrique CH08 (200 unit√©)
+1
+Sonde de foley adulte homme CH14 (200 unit√©)
+1
+Sonde de foley adulte homme CH16 (200 unit√©)
+1
+Sonde de foley adulte femme CH14 (200 unit√©)
+1
+Sonde de foley adulte femme CH18 (200 unit√©)
+1
+Catheter centrale simple lumi√®re seldinger 20cm G14 (unite)
+1
+Catheter centrale simple lumi√®re seldinger 20cm G16 (unite)
+1
+Catheter centrale simple lumi√®re seldinger 15cm G18 (unite)
+1
+Catheter centrale simple lumi√®re seldinger 15cm G14 (unite)
+1
+Catheter centrale simple lumi√®re seldinger 15cm G16 (unite)
+1
+Catheter centrale double lumi√®re seldinger 20cm G16 (unite)
+1
+Catheter centrale double lumi√®re seldinger 15cm G16 (unite)
+1
+Catheter centrale triple lumi√®re seldinger 20cm G14 (unite)
+1
+Catheter centrale triple lumi√®re seldinger 15cm G16 (unite)
+1
+Catheter centrale triple lumi√®re seldinger 15cm G14 (unite)
+1
+Aiguille spinale,biseau quincke avec introducteur G27 (0.40x88)
+1
+Aiguille spinale,pointe de crayon avec introducteur G27 (0.40x88) 
+1
+Aiguille spinale,biseau quincke G24 (0.55x88) 
+1
+Aiguille spinale,pointe de crayon G24 (0.55x88) 
+1
+Steelex electrode set non-resorbable  3/0  60cm  1/2 cercle  17mm Bt/36
+1
+"Medifix" Ness.pour mesure de la CVP  
+1
+"Medifix" Reglette pour  Mesure de la PVC
+1
+Set contiplex 50mm G18
+1
+Easypump ALR debit continu 8ML/H BT/10
+1
+"Plexufix" Aiguille G24x1 (0.55x25mm)
+1
+"Plexufix" Aiguille G24x2 (0.55x50mm)
+1
+Set contiplex 100mm G18
+1
+"CYSTOFIX" Necess.Tur pour drainage/lavage CH15,12cm
+1
+Redovac 400 Appareil de Redon
+1
+Pen Needles 30G (0.30x6mm) (B/100)
+1
+Pen Needles 30G (0.30x12mm) (B/100)
+1
+Aiguille de pr√©levement pour tube sous-vide 21Gx1 1/2 (0.80x38mm)
+1
+Aiguille de pr√©levement pour tube sous-vide 22Gx1 1/2 (0.70x38mm)
+1
+Aiguille spinale,biseau quincke avec introducteur G25 (0.50x88)
+1
+Aiguille Spinale,pointe de crayon avec introducteur G25 (0.50x88)
+1
+Aiguille spinale,biseau quincke G20 (0.9x90)
+1
+Aiguille spinale,biseau quincke G22 (0.7x90)
+1
+Aiguille spinale,pointe de crayon G20 (0.9x88)
+1
+Aiguille spinale,pointe de crayon G22 (0.7x88)
+1
+Aiguille spinale,pointe de crayon G25 (0.53x88)
+1
+Prolongateur (1.45x2.75mm) 100cm
+1
+Prolongateur (1.45x2.75mm) 150cm
+1
+Tube de pr√©levement vacutainer + K2EDTA (unit√©)
+1
+Tube de pr√©levement vacutainer + Sodium citrate 9NC (unit√©)
+1
+Tube de pr√©levement vacutainer + Sodium Heparine (unit√©)
+1
+Tube de pr√©levement vacutainer + Lithium Heparine (unit√©)
+1
+Tube de pr√©levement vacutainer + Gel Separateur (unit√©)
+1
+Adaptateur Aiguille pour tube vacutainer (unit√©)
+1
+Tube de pr√©levement vacutainer vide (unit√©)
+1
+Lunette √† oxygene p√©diatrique 210cm st√©rile (unit√©)
+1
+Lunette √† oxygene adulte 210cm st√©rile (unit√©)
+1
+Masque √† oxygene p√©diatrique 213cm st√©rile (unit√©)
+1
+Masque √† oxygene adulte 213cm st√©rile (unit√©)
+1
+Flacon de Redon 400ml (unit√©)
+1
+Premicron green polyester non-resorbable 0  75cm 3/8 cercle DS30 Bt/36 
+1
+Premicron green 3/0 polyester non-resorbable 75cm 1/2 cercle  HR26  Bt/36 
+1
+Sonde de foley adulte femme CH12 (200 unit√©)
+1
+Sonde de foley adulte homme CH20 (200 unit√©)
+1
+Aiguille spinale,biseau quincke G27 (0.40x88)
+1
+Clamp vasc de'bakey mors 38mm 220mm
+1
+Pince a Prehens.D.Allis P. Poumon 220mm
+1
+Premicron green 2/0 (3) 90 2xDRT18 (M)PF6 DDP (Bt/36)
+1
+Novosyn Violet 2/0 (3) 70cm HR30 (Bt/36)
+1
+Novosyn Violet 0 (3.5) 70cm HR37 (Bt/36)
+1
+Bero HIV Cassettes
+1
+Bero HIV 1/2- HIV Bandelettes
+1
+Bero Hep HBsAg hepatitis B virus surface antigene Bandelettes
+1
+Bero Hep HCV- Hepatitis C virus- Bandelettes
+1
+Bero Syphilis- treponema Bandelettes
+1
+Test de grossesse (HCG)Bandelettes
+1
+Sonde de foley adulte femme CH 20 (200 unit√©)
+1
+*** remisejour ***
+Test
+0
+Abaisse langue (B/100)
+1
+Gant d'examen taille " L " ( B/100 )
+1
+Gant d'examen taille " M " ( B/100 )
+1
+Gant d'examen taille " S " ( B/100 ) 
+1
+Gant de chirurgie N¬∞6.5 ( paire )
+1
+Gant de chirurgie N¬∞7.0 ( paire )
+1
+Gant de chirurgie N¬∞7.5 ( paire )
+1
+Gant de chirurgie N¬∞8.5 ( paire )
+1
+Lame de bistouri N¬∞10 ( Bte de 100 )
+1
+Lame de bistouri N¬∞11 ( Bte de 100 )
+1
+Lame de bistouri N¬∞15 ( Bte de 100 )
+1
+Lame de bistouri N¬∞20 ( Bte de 100 )
+1
+Lame de bistouri N¬∞21 ( Bte de 100 )
+1
+Catheter court avec site d'injection G14 (ut)
+1
+Catheter court avec site d'injection G20 (ut)
+1
+Catheter court avec site d'injection G22 (ut)
+1
+Sonde de foley adulte homme CH20 ( unit√© )
+1
+Sonde de foley adulte homme CH22 ( unit√© )
+1
+Sonde de foley adulte femme CH22 ( unit√© )
+1
+Seringue 01cc √† insuline  (unit√©)
+1
+Sonde d'alimentation CH06 ( unit√© )
+1
+Sonde d'alimentation CH10 ( unit√© )
+1
+Sonde d'aspiration CH06 ( unit√© )
+1
+Sonde d'aspiration CH10 ( unit√© )
+1
+Aiguille hypodermique G21 (ut)
+1
+Aiguille hypodermique G23 (ut)
+1
+Aiguille hypodermique G25 (ut)
+1
+Seringue 50cc ( unit√© )
+1
+Sonde gastrique CH12 ( unit√© )
+1
+Sonde gastrique CH14 ( unit√© )
+1
+Sonde gastrique CH16 ( unit√© )
+1
+Sonde gastrique CH18 ( unit√© )
+1
+Sonde gastrique CH20 ( unit√© )
+1
+Sonde d'aspiration CH12 ( unit√© )
+1
+Sonde d'aspiration CH14 ( unit√© )
+1
+Sonde d'aspiration CH16 ( unit√© )
+1
+Sonde d'aspiration CH18 ( unit√© )
+1
+Poche √† urine en T ( unit√© )
+1
+Embout bleu ( Sachet de 1000 ) 
+1
+Sonde rectale CH12 ( unit√© )
+1
+Sonde rectale CH14 ( unit√© )
+1
+Sonde rectale CH16 ( unit√© )
+1
+Sonde rectale CH18 ( unit√© )
+1
+Sonde rectale CH20 ( unit√© )
+1
+Sonde rectale CH22 ( unit√© )
+1
+Sonde rectale CH24 ( unit√© )
+1
+Sonde rectale CH26 ( unit√© )
+1
+Sonde rectale CH28 ( unit√© )
+1
+Sonde rectale CH32 ( unit√© )
+1
+Sonde rectale CH34 ( unit√© )
+1
+Sonde rectale CH36 ( unit√© ) 
+1
+Sonde endotrach√©ale SB/3.0mm ( unit√© )
+1
+Sonde endotrach√©ale SB/3.5mm ( unit√© )
+1
+Sonde endotrach√©ale SB/4.0mm ( unit√© )
+1
+Sonde endotrach√©ale SB/4.5mm ( unit√© )
+1
+Sonde endotrach√©ale SB/5.0mm ( unit√© )
+1
+Sonde endotrach√©ale AB/5.5mm ( unit√© )
+1
+Sonde endotrach√©ale AB/6.5mm ( unit√© )
+1
+Sonde endotrach√©ale AB/7.0mm ( unit√© )
+1
+Sonde endotrach√©ale AB/7.5mm ( unit√© )
+1
+Peni-flow M 25mm ( unit√© )
+1
+Peni flow L 30mm ( unit√© )
+1
+Sonde nelaton Homme CH06 ( unit√© )
+1
+Sonde nelaton Homme CH08 ( unit√© )
+1
+Sonde nelaton Homme CH10 ( unit√© )
+1
+Sonde nelaton Homme CH14 ( unit√© )
+1
+Sonde nelaton Homme CH16 ( unit√© )
+1
+Sonde nelaton Femme CH06 ( unit√© )
+1
+Sonde nelaton Femme CH08 ( unit√© )
+1
+Sonde nelaton Femme CH10 ( unit√© )
+1
+Sonde nelaton Femme CH12 ( unit√© )
+1
+Sonde nelaton Femme CH14 ( unit√© )
+1
+Thermometre clinique ( unit√© )
+1
+Thermometre digital waterproof ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH12 ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH14 ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH16 ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH18 ( unit√© )
+1
+Sonde duod√©nale de LEVIN CH20 ( unit√© )
+1
+Bande platr√©e 10cmx3m ( unit√© )
+1
+Bande platr√©e 20cmx3m ( unit√© )
+1
+Pot √† Crachat noir (unit√©)
+1
+Aiguille hypodermique G27 (ut)
+1
+Bracelet d'identification p√©diatrique rose (ut)
+1
+Bouchons pour Tube √† Hemolyse ( unit√© )
+1
+Lamelle couvre objet 20x20mm ( Boite de 1000 )
+1
+Compresse Purifi√©e 17 fils 12 plis 5x5cm (Bte/10)
+1
+Compresse Purifi√©e 17 fils 12 plis 7.5x7.5cm (Bte/10)
+1
+Compresse Purifi√©e 17 fils 12 plis 10x10cm (Bte/10)
+1
+Compresse St√©rile  17 fils 12 plis 5x5cm (Bte/10)
+1
+Compresse St√©rile 17 fils 12 plis 7.5x7.5cm (Bte/10)
+1
+Compresse St√©rile 17 fils 12 plis 10x10cm (Bte/10) 
+1
+Compresse St√©rile 17 fils 12 plis 10x10cm (Bte/100)
+1
+Compresse St√©rile 17 fils 12 plis 5x5cm (Bte/100)
+1
+Bande de Gaze 4mx10cm (ut)
+1
+Seringue 20cc ( unit√© )
+1
+Seringue 2.5cc ( unit√© ) G25
+1
+Aiguille hypodermique G19 (ut)
+1
+Lamelle couvre objet 24x24mm ( Boite de 1000 )
+1
+Lamelle couvre objet 18x18mm ( Boite de 1000 )
+1
+Compresse Purifi√©e 10x10 Au Fil de Baryum 12 Plis ( B/100 )
+1
+Bande de Gaze 4mx5cm (ut)
+1
+Bande de Gaze 4mx7cm (ut)
+1
+Bande de Gaze 4mx15cm (ut)
+1
+Bande de Cr√™pe 4mx7cm (ut)
+1
+Bande de Cr√™pe 4mx5cm (ut)
+1
+Sonde Endotrach√©ale AB/3.0mm ( unit√© )
+1
+Sonde Endotrach√©ale AB/3.5mm ( unit√© )
+1
+Sonde Endotrach√©ale AB/4.0mm ( unit√© )
+1
+Sonde Endotrach√©ale AB/4.5mm ( unit√© )
+1
+Sonde Endotrach√©ale AB/5.0mm ( unit√© )
+1
+Lame de bistouri N¬∞12 ( Bte de 100 )
+1
+Lamelle couvre objet 22x22mm ( Boite de 1000 )
+1
+Plaque d'os large 10 trous gliss L 167mm
+
+1
+Plaque d'os large 12 trous gliss L 199mm
+
+1
+Plaque d'os large 14 trous gliss L231mm
+
+1
+Plaque d'os large 16 trous gliss L 263mm
+1
+Plaque d'os large 18 trous gliss L 295mm
+1
+Vis spongiosa 6.5x75mm filet 16mm (5/PC)
+1
+Vis spongiosa 6.5x80mm filet 16mm (5/PC)
+
+1
+Vis spongiosa 6.5x85mm filet 16mm (5/PC)
+
+1
+Vis spongiosa 6.5x90mm filet 16mm (5/PC)
+1
+Vis spongiosa 6.5x95mm filet 16mm (5/PC)
+
+1
+Vis spongiosa 6.5x100mm filet 16mm (5/PC)
+1
+Vis spongiosa 6.5x110mm filet 16mm (5/PC)
+
+1
+Vis corticale 4.5x28mm filet complet (5/PC)
+
+1
+Vis corticale 4.5x30mm filet complet
+
+1
+Vis corticale 4.5x32mm filet complet
+
+1
+Vis corticale 4.5x34mm filet complet
+
+1
+Vis corticale 4.5x36mm filet complet
+
+1
+Vis corticale 4.5x38mm filet complet
+
+1
+Vis corticale 4.5x40mm filet complet (5/PC)
+
+1
+Vis  Corticale 4.5x42mm Filet Complet (5/PC)
+1
+Vis corticale 4.5x44mm filet complet (5/PC)
+
+1
+Vis corticale 4.5x46mm filet complet (5/PC)
+1
+Vis corticale 4.5x50mm filet complet (5/PC)
+
+1
+Vis corticale  3.5 x 14mm (5/PC)
+
+1
+Vis corticale  3.5 x 18mm (5/PC)
+
+1
+Vis corticale  3.5 x 20mm (5/PC)
+
+1
+Plaque d'os etroite 6 trous gliss L103mm
+1
+Plaque d'os etroite 8 trous gliss L135mm
+1
+Plaque d'os etroite 10 trous gliss L167mm
+1
+Support de poche de colostomie 15-35 (40mm)
+1
+Almarys Twin support de poche urostomie 50mm
+1
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 40mm
+1
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 50mm
+ 
+1
+Ecarteur vesical milin
+1
+Safil violet 1 r√©sorbable 70cm1/2 cercle HR37(Bt/36)
+
+
+
+
+1
+CERVIX SET DIAMETER 0.5cm  50cm 1/2 cercle  (2XHRN45) Bt/ 6
+1
+Cervix Set(filde cerclage) 50cm 2xHRN65 (Bt/12)
+1
+Epist S.Q.U 2/0 70DS 24.0 90HRT43 (M)DDP (Boite/36)
+1
+Histoacryl blue 0.5 ml (Bt/10)
+1
+Dafilon blue 3/0 non-resorbable 75cm 3/8 cercle (DS30) Bt/36 
+1
+Safil violet 2 resorbable 70cm HR37 (Bt/36)
+1
+Ureas Tape Implant Loop Connector shipping (Bt/1)
+1
+Ureas top 2needles transobturator procedure pair
+1
+Ureas top needle transobturator procedure
+1
+Ureas needle abdominal procedure
+1
+Ureas Vneedle retrobubic procedure pair
+1
+Ureas handle for V needles
+1
+STEELEX STE SET 6 4X45CM HRS48 LPCE (Bt/12)
+1
+Safil violet 5/0 resorbable 45cm1/4 cercle (2XVLM08) (Bt/12)
+1
+Premilene blue 4/0 non-resorbable 45cm 3/8 cercle DS12 (Bt/36)
+
+1
+STEELEX ELECTRODE 3/0 60cm HR17 (Bt/36) 
+1
+Premilene mesh - hernia repair, 30x30cm (Bt/ 5)
+1
+Vis corticale 4.5x24mm Filet complet (5/PC)
+1
+Vis corticale 4.5x26mm filet complet (5/PC)
+1
+Vis Corticale 3.5 x22mm (5/PC)
+1
+Boite de p√©tri simple compartiment (unit√©)
+1
+Ecarteur abdomin.et hepatiq.D.milkulicz
+1
+Rugine doyen P.adultes
+1
+Filtre permanent P.Container PAQ/10pc
+1
+3/4-Couvercle perfor.Hauteur:90mm
+1
+Dafilon blue 2/0 non-resorbable 75cm 3/8 cercle (DS30) Bt/36 
+1
+Safil violet 6/0 resorbable 70cm 1/2 cercle HR13(Bt/36)
+1
+Premilene mesh-hernia repair, 26cmx36cm (Bt/5)
+1
+Premilene 7/0 60cm 2xDRMV10
+1
+STEELEX Electrode set 2/0 60cm HR26
+1
+Almarys Twin support de poche urostomie 40mm
+1
+ALMARYS TWIN+ COLO BEIGE (poche de colostomie) 60mm
+1
+AT+ ILEO BEIGE AVEC FILTRE (poche d'ileostomie) 80mm
+1
+FLEXIMA URO TRANSP 12-55 (poche d'urostomie)
+1
+"CERTOFIX TRIO 715"Catheter central trilumiere adulte  15cm
+1
+"CERTOFIX TRIO 720"Catheter central trilumiere adulte  20cm
+1
+"NEPHROFIX " Set de nephrostomie percutanee CH08
+1
+Guide d'introduction G 20 x 1 3/8"
+
+
+1
+Guide d'introduction G 22 x 1 3/8"
+1
+"PENCAN"  Aiguille spinale pointe de crayon G25 (0.53 x50mm)
+1
+"PENCAN "Aiguille spinale pointe de crayon G27 (0.42 x50mm)
+1
+Premicron Green 1 non-absorbable  75cm1/2cercle HR30  (Bt/36) 
+1
+CERVIX SET (fil de cerclage) 50cm 1/2 Cercle (2XHRT48) (Bt/12)
+
+1
+Premilene 2/0 non-r√©sorbable 75cm  1/2 cercle (HR26) Bt/36 
+1
+"PENCAN" Aiguille spinale pointe de crayon G25 (0.51 x88mm)
+
+1
+PENCAN +INTR Aiguille spinale pointe de crayon avec introducteur G25 (0.53 x88mm)
+ 
+
+
+1
+"PENCAN Aiguille spinale pointe de crayon avec introducteurG25 (0.53x103mm)
+1
+ PENCAN +INTR Aiguille spinale pointe de crayon avec introducteur G27(0.42 x88mm)
+
+1
+ ESPOCAN Set peri/rachi combine espocan + spinocan G27
+
+
+1
+STIMUPLEX A 25mm Aiguille de neurostimulation L 25mm
+
+1
+"Proxima" poche adh√©sive vidangeable beige 10 - 70 mm (B/30)
+1
+"CERTOFIX DUO HF V1215
+"catheter jugulaire double lumiere d'hemodialyse 15cm
+1
+Safil violet usp 0 resorbable, (metric 3,5) 250cm(no needle) Bt/12 
+
+1
+CERTOFIX DUO 715"Catheter central bilumiere adulte  15cm
+1
+Premilene usp 5/0 non-r√©sorbable 90cm ;3/8 cercle  (2xDR18) Bt/36
+1
+Premilene 7/0 non-resorbable 75cm 3/8 cercle (2XDR10) Bt/36
+1
+Compresse occulaire B/100
+1
+Safil Quick resorbable rapide 3/0 3/8 de cercle DS16 70cm (Bt/36)
+1
+Almarys Twin poche pour urostomie 40mm
+1
+Almarys Twin poche pour urostomie 50mm
+1
+Vis spongiosa 6.5x75mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x80mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x85mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x90mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x95mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x100mm filet 32mm (5/PC)
+1
+Vis spongiosa 6.5x105mm filet 32mm (5/PC)
+1
+Mandrin a 3 mach 4.5mm AV EMB.hudson
+1
+Perforat A main AV mandrin rapid.HUDSON
+1
+Pince D'os schede #0
+1
+Pince D'os schede #1
+1
+Pince D'os schede #2
+1
+Plaq.en T tet 3 trous/tige3 trous L50
+1
+Plaque appuy. en T 4trous (tige) L80mm
+1
+Plaque appuy. en T 5trous (tige) L96mm
+1
+Plaque appuy. en T 6 trous (tige) L112mm
+1
+Plaque appuy. en L4 trous (tige) GCH.
+1
+Plaque appuy. en L4 trous (tige) DRT.
+1
+Plaque d'os etroite 8 trous gliss L145mm
+1
+Plaque d'os etroite 8 trous gliss L165mm
+1
+Vis malleolaire 4.5x20mm filet part (5/PC)
+1
+Vis malleolaire 4.5x35mm filet part (5/PC)
+1
+Optilene mesh elastic 30X30cm (Bt/5)
+1
+Optilene mesh elastic 15X15cm (Bt/5)
+1
+Premilene 4/0 non-resorbable 75cm ;3/8 de cercle (2xDR18) Bt/36
+1
+"CERTOFIX DUO 720"Catheter central bilumiere adulte  20cm
+1
+Premicron green 2/0 (3) 75cm1/2 de cercle  HR26(Bt/36)  
+1
+Premilene 2/0 non-resorbable 75cm ;3/8 de cercle (2xDR26) Bt/36
+1
+Premicron Green 3/0 non-r√©sorbable  75cm1/2 cercle (2XHR22) Bt/36
+1
+Premicron Green 4/0 non-r√©sorbable polyester75cm 1/2 cercle(2XHR22 PL6X3) Bt/36
+1
+Bouchons pour tube sec NOIR (unit√©)
+1
+Sonde de foley p√©diatrique CH10 (200 unit√©)
+1
+Sonde de foley adulte homme CH18 (200 unit√©)
+1
+Sonde de foley adulte homme CH22 (200 unit√©)
+1
+Sonde de foley adulte femme CH16 (200 unit√©)
+1
+Sonde de foley adulte femme CH28 (unit√©)
+1
+Safil Quick 0 r√©sorbable 70cm 1/2 cercle HR37 (Bt/36)
+1
+Premilene 3/0 non-resorbable 90cm 1/2 cercle (2xHRC26) Bt/36
+1
+Premilene 3/0 non-resorbable 75cm 3/8 de cercle (2xDR26) Bt/36
+1
+Premicron white 6/0 (0.7) 45m 2xVLM8 (M) Bt/12
+1
+Monomax violet  1 150cm  1/2 cercle,  40mm,HR40S Bt/24 
+1
+Pen Needles 30G (0.30x8mm) (B/100)
+1
+Sonde Endotrach√©ale AB/3.0 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/3.5 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/4.0 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/4.5 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/5.0 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/5.5 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/6.0 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/6.5 Arm√©e ( unit√© )
+1
+Sonde Endotrach√©ale AB/8.5 Arm√©e ( unit√© )
+1
+Sonde de foley p√©diatrique CH08 (200 unit√©)
+1
+Sonde de foley adulte homme CH14 (200 unit√©)
+1
+Sonde de foley adulte homme CH16 (200 unit√©)
+1
+Sonde de foley adulte femme CH14 (200 unit√©)
+1
+Sonde de foley adulte femme CH18 (200 unit√©)
+1
+Catheter centrale simple lumi√®re seldinger 20cm G14 (unite)
+1
+Catheter centrale simple lumi√®re seldinger 20cm G16 (unite)
+1
+Catheter centrale simple lumi√®re seldinger 15cm G18 (unite)
+1
+Catheter centrale simple lumi√®re seldinger 15cm G14 (unite)
+1
+Catheter centrale simple lumi√®re seldinger 15cm G16 (unite)
+1
+Catheter centrale double lumi√®re seldinger 20cm G16 (unite)
+1
+Catheter centrale double lumi√®re seldinger 15cm G16 (unite)
+1
+Catheter centrale triple lumi√®re seldinger 20cm G14 (unite)
+1
+Catheter centrale triple lumi√®re seldinger 15cm G16 (unite)
+1
+Catheter centrale triple lumi√®re seldinger 15cm G14 (unite)
+1
+Aiguille spinale,biseau quincke avec introducteur G27 (0.40x88)
+1
+Aiguille spinale,pointe de crayon avec introducteur G27 (0.40x88) 
+1
+Aiguille spinale,biseau quincke G24 (0.55x88) 
+1
+Aiguille spinale,pointe de crayon G24 (0.55x88) 
+1
+Steelex electrode set non-resorbable  3/0  60cm  1/2 cercle  17mm Bt/36
+1
+"Medifix" Ness.pour mesure de la CVP  
+1
+"Medifix" Reglette pour  Mesure de la PVC
+1
+Set contiplex 50mm G18
+1
+Easypump ALR debit continu 8ML/H BT/10
+1
+"Plexufix" Aiguille G24x1 (0.55x25mm)
+1
+"Plexufix" Aiguille G24x2 (0.55x50mm)
+1
+Set contiplex 100mm G18
+1
+"CYSTOFIX" Necess.Tur pour drainage/lavage CH15,12cm
+1
+Redovac 400 Appareil de Redon
+1
+Pen Needles 30G (0.30x6mm) (B/100)
+1
+Pen Needles 30G (0.30x12mm) (B/100)
+1
+Aiguille de pr√©levement pour tube sous-vide 21Gx1 1/2 (0.80x38mm)
+1
+Aiguille de pr√©levement pour tube sous-vide 22Gx1 1/2 (0.70x38mm)
+1
+Aiguille spinale,biseau quincke avec introducteur G25 (0.50x88)
+1
+Aiguille Spinale,pointe de crayon avec introducteur G25 (0.50x88)
+1
+Aiguille spinale,biseau quincke G20 (0.9x90)
+1
+Aiguille spinale,biseau quincke G22 (0.7x90)
+1
+Aiguille spinale,pointe de crayon G20 (0.9x88)
+1
+Aiguille spinale,pointe de crayon G22 (0.7x88)
+1
+Aiguille spinale,pointe de crayon G25 (0.53x88)
+1
+Prolongateur (1.45x2.75mm) 100cm
+1
+Prolongateur (1.45x2.75mm) 150cm
+1
+Tube de pr√©levement vacutainer + K2EDTA (unit√©)
+1
+Tube de pr√©levement vacutainer + Sodium citrate 9NC (unit√©)
+1
+Tube de pr√©levement vacutainer + Sodium Heparine (unit√©)
+1
+Tube de pr√©levement vacutainer + Lithium Heparine (unit√©)
+1
+Tube de pr√©levement vacutainer + Gel Separateur (unit√©)
+1
+Adaptateur Aiguille pour tube vacutainer (unit√©)
+1
+Tube de pr√©levement vacutainer vide (unit√©)
+1
+Lunette √† oxygene p√©diatrique 210cm st√©rile (unit√©)
+1
+Lunette √† oxygene adulte 210cm st√©rile (unit√©)
+1
+Masque √† oxygene p√©diatrique 213cm st√©rile (unit√©)
+1
+Masque √† oxygene adulte 213cm st√©rile (unit√©)
+1
+Flacon de Redon 400ml (unit√©)
+1
+Premicron green polyester non-resorbable 0  75cm 3/8 cercle DS30 Bt/36 
+1
+Premicron green 3/0 polyester non-resorbable 75cm 1/2 cercle  HR26  Bt/36 
+1
+Sonde de foley adulte femme CH12 (200 unit√©)
+1
+Sonde de foley adulte homme CH20 (200 unit√©)
+1
+Aiguille spinale,biseau quincke G27 (0.40x88)
+1
+Clamp vasc de'bakey mors 38mm 220mm
+1
+Pince a Prehens.D.Allis P. Poumon 220mm
+1
+Premicron green 2/0 (3) 90 2xDRT18 (M)PF6 DDP (Bt/36)
+1
+Novosyn Violet 2/0 (3) 70cm HR30 (Bt/36)
+1
+Novosyn Violet 0 (3.5) 70cm HR37 (Bt/36)
+1
+Bero HIV Cassettes
+1
+Bero HIV 1/2- HIV Bandelettes
+1
+Bero Hep HBsAg hepatitis B virus surface antigene Bandelettes
+1
+Bero Hep HCV- Hepatitis C virus- Bandelettes
+1
+Bero Syphilis- treponema Bandelettes
+1
+Test de grossesse (HCG)Bandelettes
+1
+Sonde de foley adulte femme CH 20 (200 unit√©)
+1
